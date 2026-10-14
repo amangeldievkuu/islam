@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark window background so cold starts don't flash white before Compose draws. -->
+    <style name="Theme.SunnahCompanion" parent="android:Theme.Material.NoActionBar" />
+</resources>

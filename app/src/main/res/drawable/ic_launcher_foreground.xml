@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Crescent and star kept inside the 66dp adaptive-icon safe zone. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#FFDEA3"
+        android:pathData="M52,31A23,23 0,1 0,75 54A18,18 0,0 1,52 31Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M69,33L71,39L77,41L71,43L69,49L67,43L61,41L67,39Z" />
+</vector>

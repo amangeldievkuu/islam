@@ -1,0 +1,2823 @@
+{
+ "version": 3,
+ "attribution": "Quran text: Tanzil Project (tanzil.net), via AlQuran.cloud. Translation: Saheeh International. Recitation: Mishary Alafasy.",
+ "defaultActiveHabitIds": [
+  "quran_ayat_al_kursi",
+  "dua_leaving_home",
+  "quran_al_mulk"
+ ],
+ "items": [
+  {
+   "id": "sunnah_fajr",
+   "kind": "PRAYER",
+   "priority": "SUNNAH_MUAKKADAH",
+   "anchorPrayer": "FAJR",
+   "title": "Two Sunnah Rak'ahs Before Fajr",
+   "arabicText": "سُنَّةُ الْفَجْرِ",
+   "transliteration": "Sunnat al-Fajr",
+   "translation": "The two Sunnah rak'ahs prayed before the Fajr fard.",
+   "recommendedTargetCount": 1,
+   "hadithVirtue": "The two rak'ahs of Fajr are better than the world and all it contains.",
+   "virtueReference": "Sahih Muslim 725",
+   "sababAndAdabTip": "Pray them calmly with short surahs — Al-Kafirun and Al-Ikhlas, as the Prophet ﷺ did (Muslim 726).",
+   "sortOrder": 10,
+   "situations": [],
+   "ayahs": [],
+   "audioUrl": null,
+   "surahNumber": null
+  },
+  {
+   "id": "prayer_fajr",
+   "kind": "PRAYER",
+   "priority": "FARD",
+   "anchorPrayer": "FAJR",
+   "title": "Fajr",
+   "arabicText": "صَلَاةُ الْفَجْرِ",
+   "transliteration": "Salat al-Fajr",
+   "translation": "The Dawn Prayer — 2 rak'ahs fard.",
+   "recommendedTargetCount": 1,
+   "hadithVirtue": "Whoever prays Fajr is under the protection of Allah.",
+   "virtueReference": "Sahih Muslim 657",
+   "sababAndAdabTip": "Sleep early, keep water by the bed, and make wudu as soon as the alarm rings.",
+   "sortOrder": 20,
+   "situations": [],
+   "ayahs": [],
+   "audioUrl": null,
+   "surahNumber": null
+  },
+  {
+   "id": "prayer_dhuhr",
+   "kind": "PRAYER",
+   "priority": "FARD",
+   "anchorPrayer": "DHUHR",
+   "title": "Dhuhr",
+   "arabicText": "صَلَاةُ الظُّهْرِ",
+   "transliteration": "Salat adh-Dhuhr",
+   "translation": "The Midday Prayer — 4 rak'ahs fard.",
+   "recommendedTargetCount": 1,
+   "hadithVirtue": "The five prayers are like a river at your door in which you bathe five times a day.",
+   "virtueReference": "Sahih al-Bukhari 528; Sahih Muslim 667",
+   "sababAndAdabTip": "Step away from work at the adhan — five unhurried minutes, then return refreshed.",
+   "sortOrder": 30,
+   "situations": [],
+   "ayahs": [],
+   "audioUrl": null,
+   "surahNumber": null
+  },
+  {
+   "id": "prayer_asr",
+   "kind": "PRAYER",
+   "priority": "FARD",
+   "anchorPrayer": "ASR",
+   "title": "Asr",
+   "arabicText": "صَلَاةُ الْعَصْرِ",
+   "transliteration": "Salat al-'Asr",
+   "translation": "The Afternoon Prayer — 4 rak'ahs fard.",
+   "recommendedTargetCount": 1,
+   "hadithVirtue": "Whoever misses Asr, it is as if he lost his family and his wealth.",
+   "virtueReference": "Sahih al-Bukhari 552",
+   "sababAndAdabTip": "Pray before your last meeting or errand of the afternoon — Asr is the easiest to let slip.",
+   "sortOrder": 40,
+   "situations": [],
+   "ayahs": [],
+   "audioUrl": null,
+   "surahNumber": null
+  },
+  {
+   "id": "prayer_maghrib",
+   "kind": "PRAYER",
+   "priority": "FARD",
+   "anchorPrayer": "MAGHRIB",
+   "title": "Maghrib",
+   "arabicText": "صَلَاةُ الْمَغْرِبِ",
+   "transliteration": "Salat al-Maghrib",
+   "translation": "The Sunset Prayer — 3 rak'ahs fard.",
+   "recommendedTargetCount": 1,
+   "hadithVirtue": "My ummah will remain upon good as long as they do not delay Maghrib until the stars appear.",
+   "virtueReference": "Sunan Abi Dawud 418",
+   "sababAndAdabTip": "Pray right after sunset, before dinner — its window is short.",
+   "sortOrder": 50,
+   "situations": [],
+   "ayahs": [],
+   "audioUrl": null,
+   "surahNumber": null
+  },
+  {
+   "id": "prayer_isha",
+   "kind": "PRAYER",
+   "priority": "FARD",
+   "anchorPrayer": "ISHA",
+   "title": "Isha",
+   "arabicText": "صَلَاةُ الْعِشَاءِ",
+   "transliteration": "Salat al-'Isha'",
+   "translation": "The Night Prayer — 4 rak'ahs fard.",
+   "recommendedTargetCount": 1,
+   "hadithVirtue": "Whoever prays Isha in congregation, it is as if he prayed half the night.",
+   "virtueReference": "Sahih Muslim 656",
+   "sababAndAdabTip": "Pray Isha before screens and late conversations, then head to bed early.",
+   "sortOrder": 60,
+   "situations": [],
+   "ayahs": [],
+   "audioUrl": null,
+   "surahNumber": null
+  },
+  {
+   "id": "prayer_witr",
+   "kind": "PRAYER",
+   "priority": "WAJIB",
+   "anchorPrayer": "ISHA",
+   "title": "Witr",
+   "arabicText": "صَلَاةُ الْوِتْرِ",
+   "transliteration": "Salat al-Witr",
+   "translation": "The Witr Prayer — 3 rak'ahs after Isha, with Du'a al-Qunut.",
+   "recommendedTargetCount": 1,
+   "hadithVirtue": "Allah is Witr and loves the witr, so pray witr, O people of the Quran.",
+   "virtueReference": "Sunan Abi Dawud 1416; Jami' at-Tirmidhi 453",
+   "sababAndAdabTip": "If you fear you won't wake for the night prayer, pray Witr right after Isha.",
+   "sortOrder": 70,
+   "situations": [],
+   "ayahs": [],
+   "audioUrl": null,
+   "surahNumber": null
+  },
+  {
+   "id": "quran_ayat_al_kursi",
+   "kind": "SURAH",
+   "priority": "MUSTAHAB",
+   "situations": [
+    "AFTER_FARD_PRAYER",
+    "MORNING",
+    "EVENING",
+    "BEFORE_SLEEP"
+   ],
+   "title": "Ayat al-Kursi (2:255)",
+   "recommendedTargetCount": 1,
+   "hadithVirtue": "Recited at bedtime, a guardian from Allah stays with you and no devil approaches until morning.",
+   "virtueReference": "Sahih al-Bukhari 2311; after each fard prayer: an-Nasa'i, as-Sunan al-Kubra 9928",
+   "sababAndAdabTip": "Stay seated a moment after salam — read it before reaching for your phone.",
+   "tiredModeEssential": true,
+   "sortOrder": 80,
+   "ayahs": [
+    {
+     "surahNumber": 2,
+     "ayahNumber": 255,
+     "arabicText": "ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ ٱلْحَىُّ ٱلْقَيُّومُ ۚ لَا تَأْخُذُهُۥ سِنَةٌۭ وَلَا نَوْمٌۭ ۚ لَّهُۥ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۗ مَن ذَا ٱلَّذِى يَشْفَعُ عِندَهُۥٓ إِلَّا بِإِذْنِهِۦ ۚ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۖ وَلَا يُحِيطُونَ بِشَىْءٍۢ مِّنْ عِلْمِهِۦٓ إِلَّا بِمَا شَآءَ ۚ وَسِعَ كُرْسِيُّهُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ ۖ وَلَا يَـُٔودُهُۥ حِفْظُهُمَا ۚ وَهُوَ ٱلْعَلِىُّ ٱلْعَظِيمُ",
+     "transliteration": "Allahu laaa ilaaha illaa Huwal Haiyul Qaiyoom; laa taakhuzuhoo sinatunw wa laa nawm; lahoo maa fissamaawaati wa maa fil ard; man zal lazee yashfa'u indahooo illaa bi-iznih; ya'lamu maa baina aydeehim wa mww khalfahum wa laa yuheetoona bishai'im min 'ilmihee illaa bimaa shaaa'; wasi'a Kursiyyuhus samaawaati wal arda wa laa ya'ooduho hifzuhumaa; wa Huwal Aliyyul 'Azeem",
+     "translation": "Allah - there is no deity except Him, the Ever-Living, the Sustainer of [all] existence. Neither drowsiness overtakes Him nor sleep. To Him belongs whatever is in the heavens and whatever is on the earth. Who is it that can intercede with Him except by His permission? He knows what is [presently] before them and what will be after them, and they encompass not a thing of His knowledge except for what He wills. His Kursi extends over the heavens and the earth, and their preservation tires Him not. And He is the Most High, the Most Great.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/262.mp3"
+    }
+   ],
+   "surahNumber": 2,
+   "arabicText": "ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ ٱلْحَىُّ ٱلْقَيُّومُ ۚ لَا تَأْخُذُهُۥ سِنَةٌۭ وَلَا نَوْمٌۭ ۚ لَّهُۥ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۗ مَن ذَا ٱلَّذِى يَشْفَعُ عِندَهُۥٓ إِلَّا بِإِذْنِهِۦ ۚ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۖ وَلَا يُحِيطُونَ بِشَىْءٍۢ مِّنْ عِلْمِهِۦٓ إِلَّا بِمَا شَآءَ ۚ وَسِعَ كُرْسِيُّهُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ ۖ وَلَا يَـُٔودُهُۥ حِفْظُهُمَا ۚ وَهُوَ ٱلْعَلِىُّ ٱلْعَظِيمُ ﴿٢٥٥﴾",
+   "transliteration": "Allahu laaa ilaaha illaa Huwal Haiyul Qaiyoom; laa taakhuzuhoo sinatunw wa laa nawm; lahoo maa fissamaawaati wa maa fil ard; man zal lazee yashfa'u indahooo illaa bi-iznih; ya'lamu maa baina aydeehim wa mww khalfahum wa laa yuheetoona bishai'im min 'ilmihee illaa bimaa shaaa'; wasi'a Kursiyyuhus samaawaati wal arda wa laa ya'ooduho hifzuhumaa; wa Huwal Aliyyul 'Azeem",
+   "translation": "Allah - there is no deity except Him, the Ever-Living, the Sustainer of [all] existence. Neither drowsiness overtakes Him nor sleep. To Him belongs whatever is in the heavens and whatever is on the earth. Who is it that can intercede with Him except by His permission? He knows what is [presently] before them and what will be after them, and they encompass not a thing of His knowledge except for what He wills. His Kursi extends over the heavens and the earth, and their preservation tires Him not. And He is the Most High, the Most Great.",
+   "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/262.mp3"
+  },
+  {
+   "id": "dhikr_after_prayer",
+   "kind": "DHIKR",
+   "priority": "MUSTAHAB",
+   "situations": [
+    "AFTER_FARD_PRAYER"
+   ],
+   "title": "Tasbih After Prayer (33 · 33 · 33 + 1)",
+   "arabicText": "سُبْحَانَ اللَّهِ، وَالْحَمْدُ لِلَّهِ، وَاللَّهُ أَكْبَرُ، لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+   "transliteration": "SubhanAllah (×33), Alhamdulillah (×33), Allahu akbar (×33), then: La ilaha illallahu wahdahu la sharika lah, lahul-mulku wa lahul-hamdu wa huwa 'ala kulli shay'in qadir.",
+   "translation": "Glory be to Allah (×33), all praise is for Allah (×33), Allah is the Greatest (×33), then once: None has the right to be worshipped except Allah, alone, without partner; His is the dominion and His is the praise, and He is over all things capable.",
+   "recommendedTargetCount": 100,
+   "hadithVirtue": "His sins are forgiven, even if they are like the foam of the sea.",
+   "virtueReference": "Sahih Muslim 597",
+   "sababAndAdabTip": "Count on the fingers of your right hand — they will speak for you (Abi Dawud 1501).",
+   "sortOrder": 90,
+   "ayahs": [],
+   "audioUrl": null,
+   "surahNumber": null
+  },
+  {
+   "id": "dua_after_prayer_help_me",
+   "kind": "DUA",
+   "priority": "MUSTAHAB",
+   "situations": [
+    "AFTER_FARD_PRAYER",
+    "GRATITUDE"
+   ],
+   "title": "Help Me to Remember and Thank You",
+   "arabicText": "اللَّهُمَّ أَعِنِّي عَلَى ذِكْرِكَ، وَشُكْرِكَ، وَحُسْنِ عِبَادَتِكَ",
+   "transliteration": "Allahumma a'inni 'ala dhikrika wa shukrika wa husni 'ibadatik.",
+   "translation": "O Allah, help me to remember You, to thank You, and to worship You well.",
+   "recommendedTargetCount": 1,
+   "hadithVirtue": "The Prophet ﷺ told Mu'adh: \"I love you — never leave saying this after every prayer.\"",
+   "virtueReference": "Sunan Abi Dawud 1522",
+   "sababAndAdabTip": "Pick one blessing from today and name it in your heart as you say it.",
+   "sortOrder": 100,
+   "ayahs": [],
+   "audioUrl": null,
+   "surahNumber": null
+  },
+  {
+   "id": "adhkar_sayyid_al_istighfar",
+   "kind": "ADHKAR",
+   "priority": "MUSTAHAB",
+   "situations": [
+    "MORNING",
+    "EVENING"
+   ],
+   "title": "Sayyid al-Istighfar (Master of Seeking Forgiveness)",
+   "arabicText": "اللَّهُمَّ أَنْتَ رَبِّي لَا إِلَهَ إِلَّا أَنْتَ، خَلَقْتَنِي وَأَنَا عَبْدُكَ، وَأَنَا عَلَى عَهْدِكَ وَوَعْدِكَ مَا اسْتَطَعْتُ، أَعُوذُ بِكَ مِنْ شَرِّ مَا صَنَعْتُ، أَبُوءُ لَكَ بِنِعْمَتِكَ عَلَيَّ، وَأَبُوءُ بِذَنْبِي فَاغْفِرْ لِي، فَإِنَّهُ لَا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ",
+   "transliteration": "Allahumma anta rabbi la ilaha illa ant, khalaqtani wa ana 'abduk, wa ana 'ala 'ahdika wa wa'dika mastata't, a'udhu bika min sharri ma sana't, abu'u laka bini'matika 'alayya, wa abu'u bidhanbi faghfir li, fa innahu la yaghfirudh-dhunuba illa ant.",
+   "translation": "O Allah, You are my Lord; none has the right to be worshipped except You. You created me and I am Your servant, and I keep Your covenant and promise as best I can. I seek refuge in You from the evil of what I have done. I acknowledge Your favour upon me and I acknowledge my sin, so forgive me, for none forgives sins except You.",
+   "recommendedTargetCount": 1,
+   "hadithVirtue": "Whoever says it with firm faith and dies that day or night is among the people of Paradise.",
+   "virtueReference": "Sahih al-Bukhari 6306",
+   "sababAndAdabTip": "Name one specific mistake from yesterday and resolve to put it right today.",
+   "sortOrder": 110,
+   "ayahs": [],
+   "audioUrl": null,
+   "surahNumber": null
+  },
+  {
+   "id": "adhkar_bismillahilladhi_la_yadurru",
+   "kind": "ADHKAR",
+   "priority": "MUSTAHAB",
+   "situations": [
+    "MORNING",
+    "EVENING"
+   ],
+   "title": "Protection: Bismillahilladhi La Yadurru",
+   "arabicText": "بِسْمِ اللَّهِ الَّذِي لَا يَضُرُّ مَعَ اسْمِهِ شَيْءٌ فِي الْأَرْضِ وَلَا فِي السَّمَاءِ وَهُوَ السَّمِيعُ الْعَلِيمُ",
+   "transliteration": "Bismillahilladhi la yadurru ma'asmihi shay'un fil-ardi wa la fis-sama', wa huwas-sami'ul-'alim.",
+   "translation": "In the name of Allah, with whose name nothing on earth or in the heavens can cause harm, and He is the All-Hearing, the All-Knowing.",
+   "recommendedTargetCount": 3,
+   "hadithVirtue": "Whoever says it three times in the morning and evening, nothing will harm him.",
+   "virtueReference": "Sunan Abi Dawud 5088; Jami' at-Tirmidhi 3388",
+   "sababAndAdabTip": "Say it before you start the day's tasks — then plan carefully and act with care.",
+   "sortOrder": 120,
+   "ayahs": [],
+   "audioUrl": null,
+   "surahNumber": null
+  },
+  {
+   "id": "adhkar_asbahna",
+   "kind": "ADHKAR",
+   "priority": "MUSTAHAB",
+   "situations": [
+    "MORNING",
+    "EVENING"
+   ],
+   "title": "Asbahna wa Asbahal-Mulku Lillah",
+   "arabicText": "أَصْبَحْنَا وَأَصْبَحَ الْمُلْكُ لِلَّهِ، وَالْحَمْدُ لِلَّهِ، لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ، رَبِّ أَسْأَلُكَ خَيْرَ مَا فِي هَذَا الْيَوْمِ وَخَيْرَ مَا بَعْدَهُ، وَأَعُوذُ بِكَ مِنْ شَرِّ مَا فِي هَذَا الْيَوْمِ وَشَرِّ مَا بَعْدَهُ، رَبِّ أَعُوذُ بِكَ مِنَ الْكَسَلِ وَسُوءِ الْكِبَرِ، رَبِّ أَعُوذُ بِكَ مِنْ عَذَابٍ فِي النَّارِ وَعَذَابٍ فِي الْقَبْرِ",
+   "transliteration": "Asbahna wa asbahal-mulku lillah, wal-hamdu lillah, la ilaha illallahu wahdahu la sharika lah, lahul-mulku wa lahul-hamdu wa huwa 'ala kulli shay'in qadir. Rabbi as'aluka khayra ma fi hadhal-yawmi wa khayra ma ba'dah, wa a'udhu bika min sharri ma fi hadhal-yawmi wa sharri ma ba'dah. Rabbi a'udhu bika minal-kasali wa su'il-kibar. Rabbi a'udhu bika min 'adhabin fin-nari wa 'adhabin fil-qabr.",
+   "translation": "We have entered the morning and the whole kingdom belongs to Allah, and all praise is for Allah. None has the right to be worshipped except Allah, alone, without partner; His is the dominion and His is the praise, and He is over all things capable. My Lord, I ask You for the good of this day and the good of what follows it, and I seek refuge in You from the evil of this day and the evil of what follows it. My Lord, I seek refuge in You from laziness and the misery of old age. My Lord, I seek refuge in You from punishment in the Fire and punishment in the grave.",
+   "recommendedTargetCount": 1,
+   "hadithVirtue": "The Prophet ﷺ said it every morning; in the evening say \"Amsayna wa amsal-mulku lillah … hadhihil-laylah …\".",
+   "virtueReference": "Sahih Muslim 2723",
+   "sababAndAdabTip": "Glance at the sky for a moment and choose the first good deed of your day.",
+   "sortOrder": 130,
+   "ayahs": [],
+   "audioUrl": null,
+   "surahNumber": null
+  },
+  {
+   "id": "adhkar_subhanallahi_wa_bihamdihi",
+   "kind": "DHIKR",
+   "priority": "MUSTAHAB",
+   "situations": [
+    "MORNING",
+    "EVENING"
+   ],
+   "title": "SubhanAllahi wa Bihamdihi",
+   "arabicText": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ",
+   "transliteration": "SubhanAllahi wa bihamdihi.",
+   "translation": "Glory be to Allah and all praise is His.",
+   "recommendedTargetCount": 100,
+   "hadithVirtue": "Said 100 times morning and evening, no one brings anything better on the Day of Resurrection except one who said more.",
+   "virtueReference": "Sahih Muslim 2692",
+   "sababAndAdabTip": "Pair it with your commute or a short walk — 100 takes under two minutes.",
+   "sortOrder": 140,
+   "ayahs": [],
+   "audioUrl": null,
+   "surahNumber": null
+  },
+  {
+   "id": "dua_leaving_home",
+   "kind": "DUA",
+   "priority": "MUSTAHAB",
+   "situations": [
+    "LEAVING_HOME"
+   ],
+   "title": "Leaving the Home",
+   "arabicText": "بِسْمِ اللَّهِ، تَوَكَّلْتُ عَلَى اللَّهِ، وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ",
+   "transliteration": "Bismillah, tawakkaltu 'alallah, wa la hawla wa la quwwata illa billah.",
+   "translation": "In the name of Allah, I place my trust in Allah, and there is no might nor power except with Allah.",
+   "recommendedTargetCount": 1,
+   "hadithVirtue": "It is said to him: \"You are guided, defended and protected,\" and the devil turns away from him.",
+   "virtueReference": "Sunan Abi Dawud 5095; Jami' at-Tirmidhi 3426",
+   "sababAndAdabTip": "Check your keys and step out with your right foot.",
+   "sortOrder": 150,
+   "ayahs": [],
+   "audioUrl": null,
+   "surahNumber": null
+  },
+  {
+   "id": "dua_entering_home",
+   "kind": "DUA",
+   "priority": "MUSTAHAB",
+   "situations": [
+    "ENTERING_HOME"
+   ],
+   "title": "Entering the Home",
+   "arabicText": "بِسْمِ اللَّهِ وَلَجْنَا، وَبِسْمِ اللَّهِ خَرَجْنَا، وَعَلَى اللَّهِ رَبِّنَا تَوَكَّلْنَا",
+   "transliteration": "Bismillahi walajna, wa bismillahi kharajna, wa 'alallahi rabbina tawakkalna.",
+   "translation": "In the name of Allah we enter, in the name of Allah we leave, and upon Allah our Lord we place our trust. (Then greet the household with salam.)",
+   "recommendedTargetCount": 1,
+   "hadithVirtue": "Mentioning Allah on entering denies the devil a place to stay the night.",
+   "virtueReference": "Sunan Abi Dawud 5096; Sahih Muslim 2018",
+   "sababAndAdabTip": "Enter with a warm smile and say Assalamu Alaikum to your family.",
+   "sortOrder": 160,
+   "ayahs": [],
+   "audioUrl": null,
+   "surahNumber": null
+  },
+  {
+   "id": "dua_riding_vehicle",
+   "kind": "DUA",
+   "priority": "MUSTAHAB",
+   "situations": [
+    "DRIVING"
+   ],
+   "title": "Riding a Vehicle",
+   "arabicText": "بِسْمِ اللَّهِ، الْحَمْدُ لِلَّهِ، سُبْحَانَ الَّذِي سَخَّرَ لَنَا هَذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ، وَإِنَّا إِلَى رَبِّنَا لَمُنْقَلِبُونَ، الْحَمْدُ لِلَّهِ، الْحَمْدُ لِلَّهِ، الْحَمْدُ لِلَّهِ، اللَّهُ أَكْبَرُ، اللَّهُ أَكْبَرُ، اللَّهُ أَكْبَرُ، سُبْحَانَكَ اللَّهُمَّ إِنِّي ظَلَمْتُ نَفْسِي فَاغْفِرْ لِي، فَإِنَّهُ لَا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ",
+   "transliteration": "Bismillah, alhamdulillah. Subhanalladhi sakh-khara lana hadha wa ma kunna lahu muqrinin, wa inna ila rabbina lamunqalibun. Alhamdulillah, alhamdulillah, alhamdulillah. Allahu akbar, Allahu akbar, Allahu akbar. Subhanaka Allahumma inni zalamtu nafsi faghfir li, fa innahu la yaghfirudh-dhunuba illa ant.",
+   "translation": "In the name of Allah, all praise is for Allah. Glory be to the One who has subjected this to us, and we could never have done so ourselves, and indeed to our Lord we will return (43:13–14). All praise is for Allah (×3). Allah is the Greatest (×3). Glory be to You, O Allah; I have wronged myself, so forgive me, for none forgives sins except You.",
+   "recommendedTargetCount": 1,
+   "hadithVirtue": "The Prophet ﷺ said it on mounting his ride, then smiled: Allah is pleased when His servant says \"forgive me\".",
+   "virtueReference": "Sunan Abi Dawud 2602; Jami' at-Tirmidhi 3446",
+   "sababAndAdabTip": "Wear your seatbelt, drive calmly, and yield to others.",
+   "sortOrder": 170,
+   "ayahs": [
+    {
+     "surahNumber": 43,
+     "ayahNumber": 13,
+     "arabicText": "لِتَسْتَوُۥا۟ عَلَىٰ ظُهُورِهِۦ ثُمَّ تَذْكُرُوا۟ نِعْمَةَ رَبِّكُمْ إِذَا ٱسْتَوَيْتُمْ عَلَيْهِ وَتَقُولُوا۟ سُبْحَٰنَ ٱلَّذِى سَخَّرَ لَنَا هَٰذَا وَمَا كُنَّا لَهُۥ مُقْرِنِينَ",
+     "transliteration": "Litastawoo 'alaa zuhoorihee summa tazkuroo ni'mata Rabbikum izastawaitum 'alaihi wa taqooloo Subhaanal lazee sakhkhara lana haaza wa maa kunnaa lahoo muqrineen",
+     "translation": "That you may settle yourselves upon their backs and then remember the favor of your Lord when you have settled upon them and say. \"Exalted is He who has subjected this to us, and we could not have [otherwise] subdued it.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4338.mp3"
+    },
+    {
+     "surahNumber": 43,
+     "ayahNumber": 14,
+     "arabicText": "وَإِنَّآ إِلَىٰ رَبِّنَا لَمُنقَلِبُونَ",
+     "transliteration": "Wa innaaa ilaa Rabbinaa lamunqaliboon",
+     "translation": "And indeed we, to our Lord, will [surely] return.\"",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4339.mp3"
+    }
+   ],
+   "audioUrl": null,
+   "surahNumber": null
+  },
+  {
+   "id": "dua_travel",
+   "kind": "DUA",
+   "priority": "MUSTAHAB",
+   "situations": [
+    "DRIVING"
+   ],
+   "title": "Setting Out on a Journey",
+   "arabicText": "اللَّهُ أَكْبَرُ، اللَّهُ أَكْبَرُ، اللَّهُ أَكْبَرُ، سُبْحَانَ الَّذِي سَخَّرَ لَنَا هَذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ، وَإِنَّا إِلَى رَبِّنَا لَمُنْقَلِبُونَ، اللَّهُمَّ إِنَّا نَسْأَلُكَ فِي سَفَرِنَا هَذَا الْبِرَّ وَالتَّقْوَى، وَمِنَ الْعَمَلِ مَا تَرْضَى، اللَّهُمَّ هَوِّنْ عَلَيْنَا سَفَرَنَا هَذَا وَاطْوِ عَنَّا بُعْدَهُ، اللَّهُمَّ أَنْتَ الصَّاحِبُ فِي السَّفَرِ، وَالْخَلِيفَةُ فِي الْأَهْلِ، اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ وَعْثَاءِ السَّفَرِ، وَكَآبَةِ الْمَنْظَرِ، وَسُوءِ الْمُنْقَلَبِ فِي الْمَالِ وَالْأَهْلِ",
+   "transliteration": "Allahu akbar, Allahu akbar, Allahu akbar. Subhanalladhi sakh-khara lana hadha wa ma kunna lahu muqrinin, wa inna ila rabbina lamunqalibun. Allahumma inna nas'aluka fi safarina hadhal-birra wat-taqwa, wa minal-'amali ma tarda. Allahumma hawwin 'alayna safarana hadha watwi 'anna bu'dah. Allahumma antas-sahibu fis-safar, wal-khalifatu fil-ahl. Allahumma inni a'udhu bika min wa'tha'is-safar, wa ka'abatil-manzar, wa su'il-munqalabi fil-mali wal-ahl.",
+   "translation": "Allah is the Greatest (×3). Glory be to the One who has subjected this to us, and we could never have done so ourselves, and indeed to our Lord we will return. O Allah, we ask You on this journey of ours for righteousness and piety, and for deeds that please You. O Allah, make this journey easy for us and shorten its distance. O Allah, You are the Companion on the journey and the Guardian of the family. O Allah, I seek refuge in You from the hardships of travel, from a distressing sight, and from an evil return to my wealth and family.",
+   "recommendedTargetCount": 1,
+   "hadithVirtue": "The Prophet ﷺ said it whenever he set out on a journey.",
+   "virtueReference": "Sahih Muslim 1342",
+   "sababAndAdabTip": "Check fuel and route before you leave, and tell your family when to expect you.",
+   "sortOrder": 180,
+   "ayahs": [
+    {
+     "surahNumber": 43,
+     "ayahNumber": 13,
+     "arabicText": "لِتَسْتَوُۥا۟ عَلَىٰ ظُهُورِهِۦ ثُمَّ تَذْكُرُوا۟ نِعْمَةَ رَبِّكُمْ إِذَا ٱسْتَوَيْتُمْ عَلَيْهِ وَتَقُولُوا۟ سُبْحَٰنَ ٱلَّذِى سَخَّرَ لَنَا هَٰذَا وَمَا كُنَّا لَهُۥ مُقْرِنِينَ",
+     "transliteration": "Litastawoo 'alaa zuhoorihee summa tazkuroo ni'mata Rabbikum izastawaitum 'alaihi wa taqooloo Subhaanal lazee sakhkhara lana haaza wa maa kunnaa lahoo muqrineen",
+     "translation": "That you may settle yourselves upon their backs and then remember the favor of your Lord when you have settled upon them and say. \"Exalted is He who has subjected this to us, and we could not have [otherwise] subdued it.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4338.mp3"
+    },
+    {
+     "surahNumber": 43,
+     "ayahNumber": 14,
+     "arabicText": "وَإِنَّآ إِلَىٰ رَبِّنَا لَمُنقَلِبُونَ",
+     "transliteration": "Wa innaaa ilaa Rabbinaa lamunqaliboon",
+     "translation": "And indeed we, to our Lord, will [surely] return.\"",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4339.mp3"
+    }
+   ],
+   "audioUrl": null,
+   "surahNumber": null
+  },
+  {
+   "id": "quran_three_quls",
+   "kind": "SURAH",
+   "priority": "MUSTAHAB",
+   "situations": [
+    "MORNING",
+    "EVENING",
+    "BEFORE_SLEEP"
+   ],
+   "title": "The Three Quls (Al-Ikhlas, Al-Falaq, An-Nas)",
+   "recommendedTargetCount": 3,
+   "hadithVirtue": "Recited three times morning and evening, they suffice you against everything.",
+   "virtueReference": "Sunan Abi Dawud 5082; Jami' at-Tirmidhi 3575; before sleep: Sahih al-Bukhari 5017",
+   "sababAndAdabTip": "At bedtime, blow into cupped hands after reciting and wipe over your body, as the Prophet ﷺ did.",
+   "sortOrder": 190,
+   "ayahs": [
+    {
+     "surahNumber": 112,
+     "ayahNumber": 1,
+     "arabicText": "قُلْ هُوَ ٱللَّهُ أَحَدٌ",
+     "transliteration": "Qul huwal laahu ahad",
+     "translation": "Say, \"He is Allah, [who is] One,",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6222.mp3"
+    },
+    {
+     "surahNumber": 112,
+     "ayahNumber": 2,
+     "arabicText": "ٱللَّهُ ٱلصَّمَدُ",
+     "transliteration": "Allah hus-samad",
+     "translation": "Allah, the Eternal Refuge.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6223.mp3"
+    },
+    {
+     "surahNumber": 112,
+     "ayahNumber": 3,
+     "arabicText": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+     "transliteration": "Lam yalid wa lam yoolad",
+     "translation": "He neither begets nor is born,",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6224.mp3"
+    },
+    {
+     "surahNumber": 112,
+     "ayahNumber": 4,
+     "arabicText": "وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌۢ",
+     "transliteration": "Wa lam yakul-lahu kufuwan ahad",
+     "translation": "Nor is there to Him any equivalent.\"",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6225.mp3"
+    },
+    {
+     "surahNumber": 113,
+     "ayahNumber": 1,
+     "arabicText": "قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ",
+     "transliteration": "Qul a'uzoo bi rabbil-falaq",
+     "translation": "Say, \"I seek refuge in the Lord of daybreak",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6226.mp3"
+    },
+    {
+     "surahNumber": 113,
+     "ayahNumber": 2,
+     "arabicText": "مِن شَرِّ مَا خَلَقَ",
+     "transliteration": "Min sharri ma khalaq",
+     "translation": "From the evil of that which He created",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6227.mp3"
+    },
+    {
+     "surahNumber": 113,
+     "ayahNumber": 3,
+     "arabicText": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+     "transliteration": "Wa min sharri ghasiqin iza waqab",
+     "translation": "And from the evil of darkness when it settles",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6228.mp3"
+    },
+    {
+     "surahNumber": 113,
+     "ayahNumber": 4,
+     "arabicText": "وَمِن شَرِّ ٱلنَّفَّٰثَٰتِ فِى ٱلْعُقَدِ",
+     "transliteration": "Wa min sharrin-naffaa-thaati fil 'uqad",
+     "translation": "And from the evil of the blowers in knots",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6229.mp3"
+    },
+    {
+     "surahNumber": 113,
+     "ayahNumber": 5,
+     "arabicText": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+     "transliteration": "Wa min shar ri haasidin iza hasad",
+     "translation": "And from the evil of an envier when he envies.\"",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6230.mp3"
+    },
+    {
+     "surahNumber": 114,
+     "ayahNumber": 1,
+     "arabicText": "قُلْ أَعُوذُ بِرَبِّ ٱلنَّاسِ",
+     "transliteration": "Qul a'uzu birabbin naas",
+     "translation": "Say, \"I seek refuge in the Lord of mankind,",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6231.mp3"
+    },
+    {
+     "surahNumber": 114,
+     "ayahNumber": 2,
+     "arabicText": "مَلِكِ ٱلنَّاسِ",
+     "transliteration": "Malikin naas",
+     "translation": "The Sovereign of mankind.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6232.mp3"
+    },
+    {
+     "surahNumber": 114,
+     "ayahNumber": 3,
+     "arabicText": "إِلَٰهِ ٱلنَّاسِ",
+     "transliteration": "Ilaahin naas",
+     "translation": "The God of mankind,",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6233.mp3"
+    },
+    {
+     "surahNumber": 114,
+     "ayahNumber": 4,
+     "arabicText": "مِن شَرِّ ٱلْوَسْوَاسِ ٱلْخَنَّاسِ",
+     "transliteration": "Min sharril was waasil khannaas",
+     "translation": "From the evil of the retreating whisperer -",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6234.mp3"
+    },
+    {
+     "surahNumber": 114,
+     "ayahNumber": 5,
+     "arabicText": "ٱلَّذِى يُوَسْوِسُ فِى صُدُورِ ٱلنَّاسِ",
+     "transliteration": "Al lazee yuwas wisu fee sudoorin naas",
+     "translation": "Who whispers [evil] into the breasts of mankind -",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6235.mp3"
+    },
+    {
+     "surahNumber": 114,
+     "ayahNumber": 6,
+     "arabicText": "مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ",
+     "transliteration": "Minal jinnati wan naas",
+     "translation": "From among the jinn and mankind.\"",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6236.mp3"
+    }
+   ],
+   "surahNumber": null,
+   "arabicText": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ قُلْ هُوَ ٱللَّهُ أَحَدٌ ﴿١﴾ ٱللَّهُ ٱلصَّمَدُ ﴿٢﴾ لَمْ يَلِدْ وَلَمْ يُولَدْ ﴿٣﴾ وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌۢ ﴿٤﴾\nبِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ ﴿١﴾ مِن شَرِّ مَا خَلَقَ ﴿٢﴾ وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ ﴿٣﴾ وَمِن شَرِّ ٱلنَّفَّٰثَٰتِ فِى ٱلْعُقَدِ ﴿٤﴾ وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ ﴿٥﴾\nبِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ قُلْ أَعُوذُ بِرَبِّ ٱلنَّاسِ ﴿١﴾ مَلِكِ ٱلنَّاسِ ﴿٢﴾ إِلَٰهِ ٱلنَّاسِ ﴿٣﴾ مِن شَرِّ ٱلْوَسْوَاسِ ٱلْخَنَّاسِ ﴿٤﴾ ٱلَّذِى يُوَسْوِسُ فِى صُدُورِ ٱلنَّاسِ ﴿٥﴾ مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ ﴿٦﴾",
+   "transliteration": "Bismillaahir Rahmaanir Raheem Qul huwal laahu ahad Allah hus-samad Lam yalid wa lam yoolad Wa lam yakul-lahu kufuwan ahad\nBismillaahir Rahmaanir Raheem Qul a'uzoo bi rabbil-falaq Min sharri ma khalaq Wa min sharri ghasiqin iza waqab Wa min sharrin-naffaa-thaati fil 'uqad Wa min shar ri haasidin iza hasad\nBismillaahir Rahmaanir Raheem Qul a'uzu birabbin naas Malikin naas Ilaahin naas Min sharril was waasil khannaas Al lazee yuwas wisu fee sudoorin naas Minal jinnati wan naas",
+   "translation": "In the name of Allah, the Entirely Merciful, the Especially Merciful. Say, \"He is Allah, [who is] One, Allah, the Eternal Refuge. He neither begets nor is born, Nor is there to Him any equivalent.\"\nIn the name of Allah, the Entirely Merciful, the Especially Merciful. Say, \"I seek refuge in the Lord of daybreak From the evil of that which He created And from the evil of darkness when it settles And from the evil of the blowers in knots And from the evil of an envier when he envies.\"\nIn the name of Allah, the Entirely Merciful, the Especially Merciful. Say, \"I seek refuge in the Lord of mankind, The Sovereign of mankind. The God of mankind, From the evil of the retreating whisperer - Who whispers [evil] into the breasts of mankind - From among the jinn and mankind.\"",
+   "audioUrl": null
+  },
+  {
+   "id": "quran_al_baqarah_last_two",
+   "kind": "SURAH",
+   "priority": "MUSTAHAB",
+   "situations": [
+    "BEFORE_SLEEP"
+   ],
+   "title": "Last Two Ayahs of Al-Baqarah (2:285–286)",
+   "recommendedTargetCount": 1,
+   "hadithVirtue": "Whoever recites them at night, they will suffice him.",
+   "virtueReference": "Sahih al-Bukhari 5009",
+   "sababAndAdabTip": "Read them slowly with the meaning — they are a complete dua for ease and forgiveness.",
+   "sortOrder": 200,
+   "ayahs": [
+    {
+     "surahNumber": 2,
+     "ayahNumber": 285,
+     "arabicText": "ءَامَنَ ٱلرَّسُولُ بِمَآ أُنزِلَ إِلَيْهِ مِن رَّبِّهِۦ وَٱلْمُؤْمِنُونَ ۚ كُلٌّ ءَامَنَ بِٱللَّهِ وَمَلَٰٓئِكَتِهِۦ وَكُتُبِهِۦ وَرُسُلِهِۦ لَا نُفَرِّقُ بَيْنَ أَحَدٍۢ مِّن رُّسُلِهِۦ ۚ وَقَالُوا۟ سَمِعْنَا وَأَطَعْنَا ۖ غُفْرَانَكَ رَبَّنَا وَإِلَيْكَ ٱلْمَصِيرُ",
+     "transliteration": "Aamanar-Rasoolu bimaaa unzila ilaihi mir-Rabbihee walmu'minoon; kullun aamana billaahi wa Malaaa'ikathihee wa Kutubhihee wa Rusulih laa nufarriqu baina ahadim-mir-Rusulihee wa qaaloo sami'naa wa ata'naa ghufraanaka Rabbanaa wa ilaikal-maseer",
+     "translation": "The Messenger has believed in what was revealed to him from his Lord, and [so have] the believers. All of them have believed in Allah and His angels and His books and His messengers, [saying], \"We make no distinction between any of His messengers.\" And they say, \"We hear and we obey. [We seek] Your forgiveness, our Lord, and to You is the [final] destination.\"",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/292.mp3"
+    },
+    {
+     "surahNumber": 2,
+     "ayahNumber": 286,
+     "arabicText": "لَا يُكَلِّفُ ٱللَّهُ نَفْسًا إِلَّا وُسْعَهَا ۚ لَهَا مَا كَسَبَتْ وَعَلَيْهَا مَا ٱكْتَسَبَتْ ۗ رَبَّنَا لَا تُؤَاخِذْنَآ إِن نَّسِينَآ أَوْ أَخْطَأْنَا ۚ رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَآ إِصْرًۭا كَمَا حَمَلْتَهُۥ عَلَى ٱلَّذِينَ مِن قَبْلِنَا ۚ رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِۦ ۖ وَٱعْفُ عَنَّا وَٱغْفِرْ لَنَا وَٱرْحَمْنَآ ۚ أَنتَ مَوْلَىٰنَا فَٱنصُرْنَا عَلَى ٱلْقَوْمِ ٱلْكَٰفِرِينَ",
+     "transliteration": "Laa yukalliful-laahu nafsan illaa wus'ahaa; lahaa maa kasabat wa 'alaihaa maktasabat; Rabbanaa la tu'aakhiznaa in naseenaaa aw akhtaanaa; Rabbanaa wa laa tahmil-'alainaaa isran kamaa hamaltahoo 'alal-lazeena min qablinaa; Rabbanaa wa laa tuhammilnaa maa laa taaqata lanaa bih wa'fu 'annaa waghfir lanaa warhamnaa; Anta mawlaanaa fansurnaa 'alal qawmil kaafireen",
+     "translation": "Allah does not charge a soul except [with that within] its capacity. It will have [the consequence of] what [good] it has gained, and it will bear [the consequence of] what [evil] it has earned. \"Our Lord, do not impose blame upon us if we have forgotten or erred. Our Lord, and lay not upon us a burden like that which You laid upon those before us. Our Lord, and burden us not with that which we have no ability to bear. And pardon us; and forgive us; and have mercy upon us. You are our protector, so give us victory over the disbelieving people.\"",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/293.mp3"
+    }
+   ],
+   "surahNumber": 2,
+   "arabicText": "ءَامَنَ ٱلرَّسُولُ بِمَآ أُنزِلَ إِلَيْهِ مِن رَّبِّهِۦ وَٱلْمُؤْمِنُونَ ۚ كُلٌّ ءَامَنَ بِٱللَّهِ وَمَلَٰٓئِكَتِهِۦ وَكُتُبِهِۦ وَرُسُلِهِۦ لَا نُفَرِّقُ بَيْنَ أَحَدٍۢ مِّن رُّسُلِهِۦ ۚ وَقَالُوا۟ سَمِعْنَا وَأَطَعْنَا ۖ غُفْرَانَكَ رَبَّنَا وَإِلَيْكَ ٱلْمَصِيرُ ﴿٢٨٥﴾ لَا يُكَلِّفُ ٱللَّهُ نَفْسًا إِلَّا وُسْعَهَا ۚ لَهَا مَا كَسَبَتْ وَعَلَيْهَا مَا ٱكْتَسَبَتْ ۗ رَبَّنَا لَا تُؤَاخِذْنَآ إِن نَّسِينَآ أَوْ أَخْطَأْنَا ۚ رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَآ إِصْرًۭا كَمَا حَمَلْتَهُۥ عَلَى ٱلَّذِينَ مِن قَبْلِنَا ۚ رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِۦ ۖ وَٱعْفُ عَنَّا وَٱغْفِرْ لَنَا وَٱرْحَمْنَآ ۚ أَنتَ مَوْلَىٰنَا فَٱنصُرْنَا عَلَى ٱلْقَوْمِ ٱلْكَٰفِرِينَ ﴿٢٨٦﴾",
+   "transliteration": "Aamanar-Rasoolu bimaaa unzila ilaihi mir-Rabbihee walmu'minoon; kullun aamana billaahi wa Malaaa'ikathihee wa Kutubhihee wa Rusulih laa nufarriqu baina ahadim-mir-Rusulihee wa qaaloo sami'naa wa ata'naa ghufraanaka Rabbanaa wa ilaikal-maseer Laa yukalliful-laahu nafsan illaa wus'ahaa; lahaa maa kasabat wa 'alaihaa maktasabat; Rabbanaa la tu'aakhiznaa in naseenaaa aw akhtaanaa; Rabbanaa wa laa tahmil-'alainaaa isran kamaa hamaltahoo 'alal-lazeena min qablinaa; Rabbanaa wa laa tuhammilnaa maa laa taaqata lanaa bih wa'fu 'annaa waghfir lanaa warhamnaa; Anta mawlaanaa fansurnaa 'alal qawmil kaafireen",
+   "translation": "The Messenger has believed in what was revealed to him from his Lord, and [so have] the believers. All of them have believed in Allah and His angels and His books and His messengers, [saying], \"We make no distinction between any of His messengers.\" And they say, \"We hear and we obey. [We seek] Your forgiveness, our Lord, and to You is the [final] destination.\" Allah does not charge a soul except [with that within] its capacity. It will have [the consequence of] what [good] it has gained, and it will bear [the consequence of] what [evil] it has earned. \"Our Lord, do not impose blame upon us if we have forgotten or erred. Our Lord, and lay not upon us a burden like that which You laid upon those before us. Our Lord, and burden us not with that which we have no ability to bear. And pardon us; and forgive us; and have mercy upon us. You are our protector, so give us victory over the disbelieving people.\"",
+   "audioUrl": null
+  },
+  {
+   "id": "quran_al_mulk",
+   "kind": "SURAH",
+   "priority": "MUSTAHAB",
+   "situations": [
+    "BEFORE_SLEEP"
+   ],
+   "title": "Surah Al-Mulk",
+   "recommendedTargetCount": 1,
+   "hadithVirtue": "A surah of thirty ayahs interceded for a man until he was forgiven; the Prophet ﷺ would not sleep until he recited it.",
+   "virtueReference": "Jami' at-Tirmidhi 2891, 2892",
+   "sababAndAdabTip": "Read it after Isha before screens; split it into two halves if it feels long.",
+   "sortOrder": 210,
+   "ayahs": [
+    {
+     "surahNumber": 67,
+     "ayahNumber": 1,
+     "arabicText": "تَبَٰرَكَ ٱلَّذِى بِيَدِهِ ٱلْمُلْكُ وَهُوَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌ",
+     "transliteration": "Tabaarakal lazee biyadihil mulku wa huwa 'alaa kulli shai-in qadeer",
+     "translation": "Blessed is He in whose hand is dominion, and He is over all things competent -",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5242.mp3"
+    },
+    {
+     "surahNumber": 67,
+     "ayahNumber": 2,
+     "arabicText": "ٱلَّذِى خَلَقَ ٱلْمَوْتَ وَٱلْحَيَوٰةَ لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَلًۭا ۚ وَهُوَ ٱلْعَزِيزُ ٱلْغَفُورُ",
+     "transliteration": "Allazee khalaqal mawta walhayaata liyabluwakum ayyukum ahsanu 'amalaa; wa huwal 'azeezul ghafoor",
+     "translation": "[He] who created death and life to test you [as to] which of you is best in deed - and He is the Exalted in Might, the Forgiving -",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5243.mp3"
+    },
+    {
+     "surahNumber": 67,
+     "ayahNumber": 3,
+     "arabicText": "ٱلَّذِى خَلَقَ سَبْعَ سَمَٰوَٰتٍۢ طِبَاقًۭا ۖ مَّا تَرَىٰ فِى خَلْقِ ٱلرَّحْمَٰنِ مِن تَفَٰوُتٍۢ ۖ فَٱرْجِعِ ٱلْبَصَرَ هَلْ تَرَىٰ مِن فُطُورٍۢ",
+     "transliteration": "Allazee khalaqa sab'a samaawaatin tibaaqam maa taraa fee khalqir rahmaani min tafaawutin farji'il basara hal taraa min futoor",
+     "translation": "[And] who created seven heavens in layers. You do not see in the creation of the Most Merciful any inconsistency. So return [your] vision [to the sky]; do you see any breaks?",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5244.mp3"
+    },
+    {
+     "surahNumber": 67,
+     "ayahNumber": 4,
+     "arabicText": "ثُمَّ ٱرْجِعِ ٱلْبَصَرَ كَرَّتَيْنِ يَنقَلِبْ إِلَيْكَ ٱلْبَصَرُ خَاسِئًۭا وَهُوَ حَسِيرٌۭ",
+     "transliteration": "Summar ji'il basara karrataini yanqalib ilaikal basaru khaasi'anw wa huwa haseer",
+     "translation": "Then return [your] vision twice again. [Your] vision will return to you humbled while it is fatigued.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5245.mp3"
+    },
+    {
+     "surahNumber": 67,
+     "ayahNumber": 5,
+     "arabicText": "وَلَقَدْ زَيَّنَّا ٱلسَّمَآءَ ٱلدُّنْيَا بِمَصَٰبِيحَ وَجَعَلْنَٰهَا رُجُومًۭا لِّلشَّيَٰطِينِ ۖ وَأَعْتَدْنَا لَهُمْ عَذَابَ ٱلسَّعِيرِ",
+     "transliteration": "Wa laqad zaiyannas samaaa'ad dunyaa bimasaa beeha wa ja'alnaahaa rujoomal lish shayaateeni wa a'tadnaa lahum 'azaabas sa'eer",
+     "translation": "And We have certainly beautified the nearest heaven with stars and have made [from] them what is thrown at the devils and have prepared for them the punishment of the Blaze.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5246.mp3"
+    },
+    {
+     "surahNumber": 67,
+     "ayahNumber": 6,
+     "arabicText": "وَلِلَّذِينَ كَفَرُوا۟ بِرَبِّهِمْ عَذَابُ جَهَنَّمَ ۖ وَبِئْسَ ٱلْمَصِيرُ",
+     "transliteration": "Wa lillazeena kafaroo bi rabbihim 'azaabu jahannama wa bi'sal maseer",
+     "translation": "And for those who disbelieved in their Lord is the punishment of Hell, and wretched is the destination.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5247.mp3"
+    },
+    {
+     "surahNumber": 67,
+     "ayahNumber": 7,
+     "arabicText": "إِذَآ أُلْقُوا۟ فِيهَا سَمِعُوا۟ لَهَا شَهِيقًۭا وَهِىَ تَفُورُ",
+     "transliteration": "Izaaa ulqoo feehaa sami'oo lahaa shaheeqanw wa hiya tafoor",
+     "translation": "When they are thrown into it, they hear from it a [dreadful] inhaling while it boils up.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5248.mp3"
+    },
+    {
+     "surahNumber": 67,
+     "ayahNumber": 8,
+     "arabicText": "تَكَادُ تَمَيَّزُ مِنَ ٱلْغَيْظِ ۖ كُلَّمَآ أُلْقِىَ فِيهَا فَوْجٌۭ سَأَلَهُمْ خَزَنَتُهَآ أَلَمْ يَأْتِكُمْ نَذِيرٌۭ",
+     "transliteration": "Takaadu tamayyazu minal ghaizi kullamaaa uliqya feehaa fawjun sa alahum khazanatuhaaa alam yaatikum nazeer",
+     "translation": "It almost bursts with rage. Every time a company is thrown into it, its keepers ask them, \"Did there not come to you a warner?\"",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5249.mp3"
+    },
+    {
+     "surahNumber": 67,
+     "ayahNumber": 9,
+     "arabicText": "قَالُوا۟ بَلَىٰ قَدْ جَآءَنَا نَذِيرٌۭ فَكَذَّبْنَا وَقُلْنَا مَا نَزَّلَ ٱللَّهُ مِن شَىْءٍ إِنْ أَنتُمْ إِلَّا فِى ضَلَٰلٍۢ كَبِيرٍۢ",
+     "transliteration": "Qaaloo balaa qad jaaa'anaa nazeerun fakazzabnaa wa qulnaa maa nazzalal laahu min shai in in antum illaa fee dalaalin kabeer",
+     "translation": "They will say,\" Yes, a warner had come to us, but we denied and said, 'Allah has not sent down anything. You are not but in great error.'\"",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5250.mp3"
+    },
+    {
+     "surahNumber": 67,
+     "ayahNumber": 10,
+     "arabicText": "وَقَالُوا۟ لَوْ كُنَّا نَسْمَعُ أَوْ نَعْقِلُ مَا كُنَّا فِىٓ أَصْحَٰبِ ٱلسَّعِيرِ",
+     "transliteration": "Wa qaaloo law kunnaa nasma'u awna'qilu maa kunnaa feee as haabis sa'eer",
+     "translation": "And they will say, \"If only we had been listening or reasoning, we would not be among the companions of the Blaze.\"",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5251.mp3"
+    },
+    {
+     "surahNumber": 67,
+     "ayahNumber": 11,
+     "arabicText": "فَٱعْتَرَفُوا۟ بِذَنۢبِهِمْ فَسُحْقًۭا لِّأَصْحَٰبِ ٱلسَّعِيرِ",
+     "transliteration": "Fa'tarafoo bizambihim fasuhqal li as haabis sa'eer",
+     "translation": "And they will admit their sin, so [it is] alienation for the companions of the Blaze.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5252.mp3"
+    },
+    {
+     "surahNumber": 67,
+     "ayahNumber": 12,
+     "arabicText": "إِنَّ ٱلَّذِينَ يَخْشَوْنَ رَبَّهُم بِٱلْغَيْبِ لَهُم مَّغْفِرَةٌۭ وَأَجْرٌۭ كَبِيرٌۭ",
+     "transliteration": "Innal lazeena yakhshawna rabbahum bilghaibi lahum maghfiratunw wa ajrun kabeer",
+     "translation": "Indeed, those who fear their Lord unseen will have forgiveness and great reward.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5253.mp3"
+    },
+    {
+     "surahNumber": 67,
+     "ayahNumber": 13,
+     "arabicText": "وَأَسِرُّوا۟ قَوْلَكُمْ أَوِ ٱجْهَرُوا۟ بِهِۦٓ ۖ إِنَّهُۥ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ",
+     "transliteration": "Wa asirroo qawlakum awijharoo bihee innahoo 'aleemum bizaatis sudoor",
+     "translation": "And conceal your speech or publicize it; indeed, He is Knowing of that within the breasts.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5254.mp3"
+    },
+    {
+     "surahNumber": 67,
+     "ayahNumber": 14,
+     "arabicText": "أَلَا يَعْلَمُ مَنْ خَلَقَ وَهُوَ ٱللَّطِيفُ ٱلْخَبِيرُ",
+     "transliteration": "Alaa ya'lamu man khalaq wa huwal lateeful khabeer",
+     "translation": "Does He who created not know, while He is the Subtle, the Acquainted?",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5255.mp3"
+    },
+    {
+     "surahNumber": 67,
+     "ayahNumber": 15,
+     "arabicText": "هُوَ ٱلَّذِى جَعَلَ لَكُمُ ٱلْأَرْضَ ذَلُولًۭا فَٱمْشُوا۟ فِى مَنَاكِبِهَا وَكُلُوا۟ مِن رِّزْقِهِۦ ۖ وَإِلَيْهِ ٱلنُّشُورُ",
+     "transliteration": "Huwal lazee ja'ala lakumul arda zaloolan famshoo fee manaakibihaa wa kuloo mir rizqihee wa ilaihin nushoor",
+     "translation": "It is He who made the earth tame for you - so walk among its slopes and eat of His provision - and to Him is the resurrection.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5256.mp3"
+    },
+    {
+     "surahNumber": 67,
+     "ayahNumber": 16,
+     "arabicText": "ءَأَمِنتُم مَّن فِى ٱلسَّمَآءِ أَن يَخْسِفَ بِكُمُ ٱلْأَرْضَ فَإِذَا هِىَ تَمُورُ",
+     "transliteration": "'A-amintum man fissamaaa'i aiyakhsifa bi kumul arda fa izaa hiya tamoor",
+     "translation": "Do you feel secure that He who [holds authority] in the heaven would not cause the earth to swallow you and suddenly it would sway?",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5257.mp3"
+    },
+    {
+     "surahNumber": 67,
+     "ayahNumber": 17,
+     "arabicText": "أَمْ أَمِنتُم مَّن فِى ٱلسَّمَآءِ أَن يُرْسِلَ عَلَيْكُمْ حَاصِبًۭا ۖ فَسَتَعْلَمُونَ كَيْفَ نَذِيرِ",
+     "transliteration": "Am amintum man fissamaaa'i ai yursila 'alaikum haasiban fasata'lamoona kaifa nazeer",
+     "translation": "Or do you feel secure that He who [holds authority] in the heaven would not send against you a storm of stones? Then you would know how [severe] was My warning.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5258.mp3"
+    },
+    {
+     "surahNumber": 67,
+     "ayahNumber": 18,
+     "arabicText": "وَلَقَدْ كَذَّبَ ٱلَّذِينَ مِن قَبْلِهِمْ فَكَيْفَ كَانَ نَكِيرِ",
+     "transliteration": "Wa laqad kazzabal lazeena min qablihim fakaifa kaana nakeer",
+     "translation": "And already had those before them denied, and how [terrible] was My reproach.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5259.mp3"
+    },
+    {
+     "surahNumber": 67,
+     "ayahNumber": 19,
+     "arabicText": "أَوَلَمْ يَرَوْا۟ إِلَى ٱلطَّيْرِ فَوْقَهُمْ صَٰٓفَّٰتٍۢ وَيَقْبِضْنَ ۚ مَا يُمْسِكُهُنَّ إِلَّا ٱلرَّحْمَٰنُ ۚ إِنَّهُۥ بِكُلِّ شَىْءٍۭ بَصِيرٌ",
+     "transliteration": "Awalam yaraw ilat tairi fawqahum saaaffaatinw wa yaqbidn; maa yumsikuhunna illaar rahmaan; innahoo bikulli shai im baseer",
+     "translation": "Do they not see the birds above them with wings outspread and [sometimes] folded in? None holds them [aloft] except the Most Merciful. Indeed He is, of all things, Seeing.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5260.mp3"
+    },
+    {
+     "surahNumber": 67,
+     "ayahNumber": 20,
+     "arabicText": "أَمَّنْ هَٰذَا ٱلَّذِى هُوَ جُندٌۭ لَّكُمْ يَنصُرُكُم مِّن دُونِ ٱلرَّحْمَٰنِ ۚ إِنِ ٱلْكَٰفِرُونَ إِلَّا فِى غُرُورٍ",
+     "transliteration": "Amman haazal lazee huwa jundul lakum yansurukum min doonir rahmaan; inilkaafiroona illaa fee ghuroor",
+     "translation": "Or who is it that could be an army for you to aid you other than the Most Merciful? The disbelievers are not but in delusion.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5261.mp3"
+    },
+    {
+     "surahNumber": 67,
+     "ayahNumber": 21,
+     "arabicText": "أَمَّنْ هَٰذَا ٱلَّذِى يَرْزُقُكُمْ إِنْ أَمْسَكَ رِزْقَهُۥ ۚ بَل لَّجُّوا۟ فِى عُتُوٍّۢ وَنُفُورٍ",
+     "transliteration": "Amman haazal lazee yarzuqukum in amsaka rizqah; bal lajjoo fee 'utuwwinw wa nufoor",
+     "translation": "Or who is it that could provide for you if He withheld His provision? But they have persisted in insolence and aversion.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5262.mp3"
+    },
+    {
+     "surahNumber": 67,
+     "ayahNumber": 22,
+     "arabicText": "أَفَمَن يَمْشِى مُكِبًّا عَلَىٰ وَجْهِهِۦٓ أَهْدَىٰٓ أَمَّن يَمْشِى سَوِيًّا عَلَىٰ صِرَٰطٍۢ مُّسْتَقِيمٍۢ",
+     "transliteration": "Afamai yamshee mukibban 'alaa wajhihee ahdaaa ammany yamshee sawiyyan 'alaa siratim mustaqeem",
+     "translation": "Then is one who walks fallen on his face better guided or one who walks erect on a straight path?",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5263.mp3"
+    },
+    {
+     "surahNumber": 67,
+     "ayahNumber": 23,
+     "arabicText": "قُلْ هُوَ ٱلَّذِىٓ أَنشَأَكُمْ وَجَعَلَ لَكُمُ ٱلسَّمْعَ وَٱلْأَبْصَٰرَ وَٱلْأَفْـِٔدَةَ ۖ قَلِيلًۭا مَّا تَشْكُرُونَ",
+     "transliteration": "Qul huwal lazee ansha akum wa ja'ala lakumus sam'a wal absaara wal af'idata qaleelam maa tashkuroon",
+     "translation": "Say, \"It is He who has produced you and made for you hearing and vision and hearts; little are you grateful.\"",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5264.mp3"
+    },
+    {
+     "surahNumber": 67,
+     "ayahNumber": 24,
+     "arabicText": "قُلْ هُوَ ٱلَّذِى ذَرَأَكُمْ فِى ٱلْأَرْضِ وَإِلَيْهِ تُحْشَرُونَ",
+     "transliteration": "Qul huwal lazee zara akum fil ardi wa ilaihi tuhsharoon",
+     "translation": "Say, \"It is He who has multiplied you throughout the earth, and to Him you will be gathered.\"",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5265.mp3"
+    },
+    {
+     "surahNumber": 67,
+     "ayahNumber": 25,
+     "arabicText": "وَيَقُولُونَ مَتَىٰ هَٰذَا ٱلْوَعْدُ إِن كُنتُمْ صَٰدِقِينَ",
+     "transliteration": "Wa yaqooloona mataa haazal wa'du in kuntum saadiqeen",
+     "translation": "And they say, \"When is this promise, if you should be truthful?\"",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5266.mp3"
+    },
+    {
+     "surahNumber": 67,
+     "ayahNumber": 26,
+     "arabicText": "قُلْ إِنَّمَا ٱلْعِلْمُ عِندَ ٱللَّهِ وَإِنَّمَآ أَنَا۠ نَذِيرٌۭ مُّبِينٌۭ",
+     "transliteration": "Qul innamal 'ilmu 'indallaahi wa innamaaa ana nazeerum mubeen",
+     "translation": "Say, \"The knowledge is only with Allah, and I am only a clear warner.\"",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5267.mp3"
+    },
+    {
+     "surahNumber": 67,
+     "ayahNumber": 27,
+     "arabicText": "فَلَمَّا رَأَوْهُ زُلْفَةًۭ سِيٓـَٔتْ وُجُوهُ ٱلَّذِينَ كَفَرُوا۟ وَقِيلَ هَٰذَا ٱلَّذِى كُنتُم بِهِۦ تَدَّعُونَ",
+     "transliteration": "Falaammaa ra-awhu zulfatan seee'at wujoohul lazeena kafaroo wa qeela haazal lazee kuntum bihee tadda'oon",
+     "translation": "But when they see it approaching, the faces of those who disbelieve will be distressed, and it will be said, \"This is that for which you used to call.\"",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5268.mp3"
+    },
+    {
+     "surahNumber": 67,
+     "ayahNumber": 28,
+     "arabicText": "قُلْ أَرَءَيْتُمْ إِنْ أَهْلَكَنِىَ ٱللَّهُ وَمَن مَّعِىَ أَوْ رَحِمَنَا فَمَن يُجِيرُ ٱلْكَٰفِرِينَ مِنْ عَذَابٍ أَلِيمٍۢ",
+     "transliteration": "Qul ara'aytum in ahlaka niyal laahu wa mam ma'iya aw rahimanaa famai-yujeerul kaafireena min 'azaabin aleem",
+     "translation": "Say, [O Muhammad], \"Have you considered: whether Allah should cause my death and those with me or have mercy upon us, who can protect the disbelievers from a painful punishment?\"",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5269.mp3"
+    },
+    {
+     "surahNumber": 67,
+     "ayahNumber": 29,
+     "arabicText": "قُلْ هُوَ ٱلرَّحْمَٰنُ ءَامَنَّا بِهِۦ وَعَلَيْهِ تَوَكَّلْنَا ۖ فَسَتَعْلَمُونَ مَنْ هُوَ فِى ضَلَٰلٍۢ مُّبِينٍۢ",
+     "transliteration": "Qul huwar rahmaanu aamannaa bihee wa 'alaihi tawakkalnaa fasata'lamoona man huwa fee dalaalim mubeen",
+     "translation": "Say, \"He is the Most Merciful; we have believed in Him, and upon Him we have relied. And you will [come to] know who it is that is in clear error.\"",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5270.mp3"
+    },
+    {
+     "surahNumber": 67,
+     "ayahNumber": 30,
+     "arabicText": "قُلْ أَرَءَيْتُمْ إِنْ أَصْبَحَ مَآؤُكُمْ غَوْرًۭا فَمَن يَأْتِيكُم بِمَآءٍۢ مَّعِينٍۭ",
+     "transliteration": "Qul ara'aytum in asbaha maaa'ukum ghawran famai yaateekum bimaaa'im ma'een",
+     "translation": "Say, \"Have you considered: if your water was to become sunken [into the earth], then who could bring you flowing water?\"",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5271.mp3"
+    }
+   ],
+   "surahNumber": 67,
+   "arabicText": "تَبَٰرَكَ ٱلَّذِى بِيَدِهِ ٱلْمُلْكُ وَهُوَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌ",
+   "transliteration": "Tabaarakal lazee biyadihil mulku wa huwa 'alaa kulli shai-in qadeer",
+   "translation": "Blessed is He in whose hand is dominion, and He is over all things competent -",
+   "audioUrl": "https://cdn.islamic.network/quran/audio-surah/128/ar.alafasy/67.mp3"
+  },
+  {
+   "id": "quran_al_waqiah",
+   "kind": "SURAH",
+   "priority": "MUSTAHAB",
+   "situations": [
+    "EVENING",
+    "BEFORE_SLEEP"
+   ],
+   "title": "Surah Al-Waqi'ah",
+   "recommendedTargetCount": 1,
+   "hadithVirtue": "Narrated: whoever recites Al-Waqi'ah every night will never be struck by poverty. Its chain is weak (da'if).",
+   "virtueReference": "Ibn Mas'ud, reported by al-Bayhaqi (Shu'ab al-Iman) and Ibn as-Sunni; graded da'if",
+   "sababAndAdabTip": "Pair it with honest effort in your work and contentment with what you have.",
+   "sortOrder": 220,
+   "ayahs": [
+    {
+     "surahNumber": 56,
+     "ayahNumber": 1,
+     "arabicText": "إِذَا وَقَعَتِ ٱلْوَاقِعَةُ",
+     "transliteration": "Izaa waqa'atil waaqi'ah",
+     "translation": "When the Occurrence occurs,",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4980.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 2,
+     "arabicText": "لَيْسَ لِوَقْعَتِهَا كَاذِبَةٌ",
+     "transliteration": "Laisa liwaq'atihaa kaazibah",
+     "translation": "There is, at its occurrence, no denial.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4981.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 3,
+     "arabicText": "خَافِضَةٌۭ رَّافِعَةٌ",
+     "transliteration": "Khafidatur raafi'ah",
+     "translation": "It will bring down [some] and raise up [others].",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4982.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 4,
+     "arabicText": "إِذَا رُجَّتِ ٱلْأَرْضُ رَجًّۭا",
+     "transliteration": "Izaa rujjatil ardu rajjaa",
+     "translation": "When the earth is shaken with convulsion",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4983.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 5,
+     "arabicText": "وَبُسَّتِ ٱلْجِبَالُ بَسًّۭا",
+     "transliteration": "Wa bussatil jibaalu bassaa",
+     "translation": "And the mountains are broken down, crumbling",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4984.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 6,
+     "arabicText": "فَكَانَتْ هَبَآءًۭ مُّنۢبَثًّۭا",
+     "transliteration": "Fakaanat habaaa'am mumbassaa",
+     "translation": "And become dust dispersing.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4985.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 7,
+     "arabicText": "وَكُنتُمْ أَزْوَٰجًۭا ثَلَٰثَةًۭ",
+     "transliteration": "Wa kuntum azwaajan salaasah",
+     "translation": "And you become [of] three kinds:",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4986.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 8,
+     "arabicText": "فَأَصْحَٰبُ ٱلْمَيْمَنَةِ مَآ أَصْحَٰبُ ٱلْمَيْمَنَةِ",
+     "transliteration": "Fa as haabul maimanati maaa as haabul maimanah",
+     "translation": "Then the companions of the right - what are the companions of the right?",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4987.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 9,
+     "arabicText": "وَأَصْحَٰبُ ٱلْمَشْـَٔمَةِ مَآ أَصْحَٰبُ ٱلْمَشْـَٔمَةِ",
+     "transliteration": "Wa as haabul mash'amati maaa as haabul mash'amah",
+     "translation": "And the companions of the left - what are the companions of the left?",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4988.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 10,
+     "arabicText": "وَٱلسَّٰبِقُونَ ٱلسَّٰبِقُونَ",
+     "transliteration": "Wassaabiqoonas saabiqoon",
+     "translation": "And the forerunners, the forerunners -",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4989.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 11,
+     "arabicText": "أُو۟لَٰٓئِكَ ٱلْمُقَرَّبُونَ",
+     "transliteration": "Ulaaa'ikal muqarraboon",
+     "translation": "Those are the ones brought near [to Allah]",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4990.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 12,
+     "arabicText": "فِى جَنَّٰتِ ٱلنَّعِيمِ",
+     "transliteration": "Fee Jannaatin Na'eem",
+     "translation": "In the Gardens of Pleasure,",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4991.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 13,
+     "arabicText": "ثُلَّةٌۭ مِّنَ ٱلْأَوَّلِينَ",
+     "transliteration": "Sullatum minal awwaleen",
+     "translation": "A [large] company of the former peoples",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4992.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 14,
+     "arabicText": "وَقَلِيلٌۭ مِّنَ ٱلْءَاخِرِينَ",
+     "transliteration": "Wa qaleelum minal aa khireen",
+     "translation": "And a few of the later peoples,",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4993.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 15,
+     "arabicText": "عَلَىٰ سُرُرٍۢ مَّوْضُونَةٍۢ",
+     "transliteration": "'Alaa sururim mawdoonah",
+     "translation": "On thrones woven [with ornament],",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4994.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 16,
+     "arabicText": "مُّتَّكِـِٔينَ عَلَيْهَا مُتَقَٰبِلِينَ",
+     "transliteration": "Muttaki'eena 'alaihaa mutaqabileen",
+     "translation": "Reclining on them, facing each other.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4995.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 17,
+     "arabicText": "يَطُوفُ عَلَيْهِمْ وِلْدَٰنٌۭ مُّخَلَّدُونَ",
+     "transliteration": "Yatoofu 'alaihim wildaa num mukkhalladoon",
+     "translation": "There will circulate among them young boys made eternal",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4996.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 18,
+     "arabicText": "بِأَكْوَابٍۢ وَأَبَارِيقَ وَكَأْسٍۢ مِّن مَّعِينٍۢ",
+     "transliteration": "Bi akwaabinw wa abaareeq, wa kaasim mim ma'een",
+     "translation": "With vessels, pitchers and a cup [of wine] from a flowing spring -",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4997.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 19,
+     "arabicText": "لَّا يُصَدَّعُونَ عَنْهَا وَلَا يُنزِفُونَ",
+     "transliteration": "Laa yusadda'oona 'anhaa wa laa yunzifoon",
+     "translation": "No headache will they have therefrom, nor will they be intoxicated -",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4998.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 20,
+     "arabicText": "وَفَٰكِهَةٍۢ مِّمَّا يَتَخَيَّرُونَ",
+     "transliteration": "Wa faakihatim mimmaa yatakhaiyaroon",
+     "translation": "And fruit of what they select",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4999.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 21,
+     "arabicText": "وَلَحْمِ طَيْرٍۢ مِّمَّا يَشْتَهُونَ",
+     "transliteration": "Wa lahmi tairim mimmaa yashtahoon",
+     "translation": "And the meat of fowl, from whatever they desire.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5000.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 22,
+     "arabicText": "وَحُورٌ عِينٌۭ",
+     "transliteration": "Wa hoorun'een",
+     "translation": "And [for them are] fair women with large, [beautiful] eyes,",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5001.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 23,
+     "arabicText": "كَأَمْثَٰلِ ٱللُّؤْلُؤِ ٱلْمَكْنُونِ",
+     "transliteration": "Ka amsaalil lu'lu'il maknoon",
+     "translation": "The likenesses of pearls well-protected,",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5002.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 24,
+     "arabicText": "جَزَآءًۢ بِمَا كَانُوا۟ يَعْمَلُونَ",
+     "transliteration": "Jazaaa'am bimaa kaanoo ya'maloon",
+     "translation": "As reward for what they used to do.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5003.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 25,
+     "arabicText": "لَا يَسْمَعُونَ فِيهَا لَغْوًۭا وَلَا تَأْثِيمًا",
+     "transliteration": "Laa yasma'oona feehaa laghwanw wa laa taaseemaa",
+     "translation": "They will not hear therein ill speech or commission of sin -",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5004.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 26,
+     "arabicText": "إِلَّا قِيلًۭا سَلَٰمًۭا سَلَٰمًۭا",
+     "transliteration": "Illaa qeelan salaaman salaamaa",
+     "translation": "Only a saying: \"Peace, peace.\"",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5005.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 27,
+     "arabicText": "وَأَصْحَٰبُ ٱلْيَمِينِ مَآ أَصْحَٰبُ ٱلْيَمِينِ",
+     "transliteration": "Wa as haabul yameeni maaa as haabul Yameen",
+     "translation": "The companions of the right - what are the companions of the right?",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5006.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 28,
+     "arabicText": "فِى سِدْرٍۢ مَّخْضُودٍۢ",
+     "transliteration": "Fee sidrim makhdood",
+     "translation": "[They will be] among lote trees with thorns removed",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5007.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 29,
+     "arabicText": "وَطَلْحٍۢ مَّنضُودٍۢ",
+     "transliteration": "Wa talhim mandood",
+     "translation": "And [banana] trees layered [with fruit]",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5008.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 30,
+     "arabicText": "وَظِلٍّۢ مَّمْدُودٍۢ",
+     "transliteration": "Wa zillim mamdood",
+     "translation": "And shade extended",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5009.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 31,
+     "arabicText": "وَمَآءٍۢ مَّسْكُوبٍۢ",
+     "transliteration": "Wa maaa'im maskoob",
+     "translation": "And water poured out",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5010.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 32,
+     "arabicText": "وَفَٰكِهَةٍۢ كَثِيرَةٍۢ",
+     "transliteration": "Wa faakihatin kaseerah",
+     "translation": "And fruit, abundant [and varied],",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5011.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 33,
+     "arabicText": "لَّا مَقْطُوعَةٍۢ وَلَا مَمْنُوعَةٍۢ",
+     "transliteration": "Laa maqtoo'atinw wa laa mamnoo'ah",
+     "translation": "Neither limited [to season] nor forbidden,",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5012.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 34,
+     "arabicText": "وَفُرُشٍۢ مَّرْفُوعَةٍ",
+     "transliteration": "Wa furushim marfoo'ah",
+     "translation": "And [upon] beds raised high.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5013.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 35,
+     "arabicText": "إِنَّآ أَنشَأْنَٰهُنَّ إِنشَآءًۭ",
+     "transliteration": "Innaaa anshaanaahunna inshaaa'aa",
+     "translation": "Indeed, We have produced the women of Paradise in a [new] creation",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5014.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 36,
+     "arabicText": "فَجَعَلْنَٰهُنَّ أَبْكَارًا",
+     "transliteration": "Faja'alnaahunna abkaaraa",
+     "translation": "And made them virgins,",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5015.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 37,
+     "arabicText": "عُرُبًا أَتْرَابًۭا",
+     "transliteration": "'Uruban atraabaa",
+     "translation": "Devoted [to their husbands] and of equal age,",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5016.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 38,
+     "arabicText": "لِّأَصْحَٰبِ ٱلْيَمِينِ",
+     "transliteration": "Li as haabil yameen",
+     "translation": "For the companions of the right [who are]",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5017.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 39,
+     "arabicText": "ثُلَّةٌۭ مِّنَ ٱلْأَوَّلِينَ",
+     "transliteration": "Sullatum minal awwa leen",
+     "translation": "A company of the former peoples",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5018.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 40,
+     "arabicText": "وَثُلَّةٌۭ مِّنَ ٱلْءَاخِرِينَ",
+     "transliteration": "Wa sullatum minal aakhireen",
+     "translation": "And a company of the later peoples.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5019.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 41,
+     "arabicText": "وَأَصْحَٰبُ ٱلشِّمَالِ مَآ أَصْحَٰبُ ٱلشِّمَالِ",
+     "transliteration": "Wa as haabush shimaali maaa as haabush shimaal",
+     "translation": "And the companions of the left - what are the companions of the left?",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5020.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 42,
+     "arabicText": "فِى سَمُومٍۢ وَحَمِيمٍۢ",
+     "transliteration": "Fee samoominw wa hameem",
+     "translation": "[They will be] in scorching fire and scalding water",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5021.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 43,
+     "arabicText": "وَظِلٍّۢ مِّن يَحْمُومٍۢ",
+     "transliteration": "Wa zillim miny yahmoom",
+     "translation": "And a shade of black smoke,",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5022.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 44,
+     "arabicText": "لَّا بَارِدٍۢ وَلَا كَرِيمٍ",
+     "transliteration": "Laa baaridinw wa laa kareem",
+     "translation": "Neither cool nor beneficial.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5023.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 45,
+     "arabicText": "إِنَّهُمْ كَانُوا۟ قَبْلَ ذَٰلِكَ مُتْرَفِينَ",
+     "transliteration": "Innaahum kaanoo qabla zaalika mutrafeen",
+     "translation": "Indeed they were, before that, indulging in affluence,",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5024.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 46,
+     "arabicText": "وَكَانُوا۟ يُصِرُّونَ عَلَى ٱلْحِنثِ ٱلْعَظِيمِ",
+     "transliteration": "Wa kaanoo yusirroona 'alal hinsil 'azeem",
+     "translation": "And they used to persist in the great violation,",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5025.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 47,
+     "arabicText": "وَكَانُوا۟ يَقُولُونَ أَئِذَا مِتْنَا وَكُنَّا تُرَابًۭا وَعِظَٰمًا أَءِنَّا لَمَبْعُوثُونَ",
+     "transliteration": "Wa kaanoo yaqooloona a'izaa mitnaa wa kunnaa turaabanw wa izaaman'ainnaa lamab'oosoon",
+     "translation": "And they used to say, \"When we die and become dust and bones, are we indeed to be resurrected?",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5026.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 48,
+     "arabicText": "أَوَءَابَآؤُنَا ٱلْأَوَّلُونَ",
+     "transliteration": "Awa aabaaa'unal awwaloon",
+     "translation": "And our forefathers [as well]?\"",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5027.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 49,
+     "arabicText": "قُلْ إِنَّ ٱلْأَوَّلِينَ وَٱلْءَاخِرِينَ",
+     "transliteration": "Qul innal awwaleena wal aakhireen",
+     "translation": "Say, [O Muhammad], \"Indeed, the former and the later peoples",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5028.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 50,
+     "arabicText": "لَمَجْمُوعُونَ إِلَىٰ مِيقَٰتِ يَوْمٍۢ مَّعْلُومٍۢ",
+     "transliteration": "Lamajmoo'oona ilaa meeqaati yawmim ma'loon",
+     "translation": "Are to be gathered together for the appointment of a known Day.\"",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5029.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 51,
+     "arabicText": "ثُمَّ إِنَّكُمْ أَيُّهَا ٱلضَّآلُّونَ ٱلْمُكَذِّبُونَ",
+     "transliteration": "summa innakum ayyuhad daaalloonal mukazziboon",
+     "translation": "Then indeed you, O those astray [who are] deniers,",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5030.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 52,
+     "arabicText": "لَءَاكِلُونَ مِن شَجَرٍۢ مِّن زَقُّومٍۢ",
+     "transliteration": "La aakiloona min shaja rim min zaqqoom",
+     "translation": "Will be eating from trees of zaqqum",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5031.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 53,
+     "arabicText": "فَمَالِـُٔونَ مِنْهَا ٱلْبُطُونَ",
+     "transliteration": "Famaali'oona minhal butoon",
+     "translation": "And filling with it your bellies",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5032.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 54,
+     "arabicText": "فَشَٰرِبُونَ عَلَيْهِ مِنَ ٱلْحَمِيمِ",
+     "transliteration": "Fashaariboona 'alaihi minal hameem",
+     "translation": "And drinking on top of it from scalding water",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5033.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 55,
+     "arabicText": "فَشَٰرِبُونَ شُرْبَ ٱلْهِيمِ",
+     "transliteration": "Fashaariboona shurbal heem",
+     "translation": "And will drink as the drinking of thirsty camels.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5034.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 56,
+     "arabicText": "هَٰذَا نُزُلُهُمْ يَوْمَ ٱلدِّينِ",
+     "transliteration": "Haazaa nuzuluhum yawmad deen",
+     "translation": "That is their accommodation on the Day of Recompense.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5035.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 57,
+     "arabicText": "نَحْنُ خَلَقْنَٰكُمْ فَلَوْلَا تُصَدِّقُونَ",
+     "transliteration": "Nahnu khalaqnaakum falaw laa tusaddiqoon",
+     "translation": "We have created you, so why do you not believe?",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5036.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 58,
+     "arabicText": "أَفَرَءَيْتُم مَّا تُمْنُونَ",
+     "transliteration": "Afara'aytum maa tumnoon",
+     "translation": "Have you seen that which you emit?",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5037.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 59,
+     "arabicText": "ءَأَنتُمْ تَخْلُقُونَهُۥٓ أَمْ نَحْنُ ٱلْخَٰلِقُونَ",
+     "transliteration": "'A-antum takhluqoo nahooo am nahnul khaaliqoon",
+     "translation": "Is it you who creates it, or are We the Creator?",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5038.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 60,
+     "arabicText": "نَحْنُ قَدَّرْنَا بَيْنَكُمُ ٱلْمَوْتَ وَمَا نَحْنُ بِمَسْبُوقِينَ",
+     "transliteration": "Nahnu qaddarnaa baina kumul mawta wa maa nahnu bimasbooqeen",
+     "translation": "We have decreed death among you, and We are not to be outdone",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5039.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 61,
+     "arabicText": "عَلَىٰٓ أَن نُّبَدِّلَ أَمْثَٰلَكُمْ وَنُنشِئَكُمْ فِى مَا لَا تَعْلَمُونَ",
+     "transliteration": "'Alaaa an nubaddila amsaalakum wa nunshi'akum fee maa laa ta'lamoon",
+     "translation": "In that We will change your likenesses and produce you in that [form] which you do not know.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5040.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 62,
+     "arabicText": "وَلَقَدْ عَلِمْتُمُ ٱلنَّشْأَةَ ٱلْأُولَىٰ فَلَوْلَا تَذَكَّرُونَ",
+     "transliteration": "Wa laqad 'alimtumun nash atal oolaa falaw laa tazakkaroon",
+     "translation": "And you have already known the first creation, so will you not remember?",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5041.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 63,
+     "arabicText": "أَفَرَءَيْتُم مَّا تَحْرُثُونَ",
+     "transliteration": "Afara'aytum maa tahrusoon",
+     "translation": "And have you seen that [seed] which you sow?",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5042.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 64,
+     "arabicText": "ءَأَنتُمْ تَزْرَعُونَهُۥٓ أَمْ نَحْنُ ٱلزَّٰرِعُونَ",
+     "transliteration": "'A-antum tazra'oonahooo am nahnuz zaari'ooon",
+     "translation": "Is it you who makes it grow, or are We the grower?",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5043.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 65,
+     "arabicText": "لَوْ نَشَآءُ لَجَعَلْنَٰهُ حُطَٰمًۭا فَظَلْتُمْ تَفَكَّهُونَ",
+     "transliteration": "Law nashaaa'u laja'al naahu hutaaman fazaltum tafakkahoon",
+     "translation": "If We willed, We could make it [dry] debris, and you would remain in wonder,",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5044.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 66,
+     "arabicText": "إِنَّا لَمُغْرَمُونَ",
+     "transliteration": "Innaa lamughramoon",
+     "translation": "[Saying], \"Indeed, we are [now] in debt;",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5045.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 67,
+     "arabicText": "بَلْ نَحْنُ مَحْرُومُونَ",
+     "transliteration": "Bal nahnu mahroomoon",
+     "translation": "Rather, we have been deprived.\"",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5046.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 68,
+     "arabicText": "أَفَرَءَيْتُمُ ٱلْمَآءَ ٱلَّذِى تَشْرَبُونَ",
+     "transliteration": "Afara'aytumul maaa'allazee tashraboon",
+     "translation": "And have you seen the water that you drink?",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5047.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 69,
+     "arabicText": "ءَأَنتُمْ أَنزَلْتُمُوهُ مِنَ ٱلْمُزْنِ أَمْ نَحْنُ ٱلْمُنزِلُونَ",
+     "transliteration": "'A-antum anzaltumoohu minal muzni am nahnul munziloon",
+     "translation": "Is it you who brought it down from the clouds, or is it We who bring it down?",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5048.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 70,
+     "arabicText": "لَوْ نَشَآءُ جَعَلْنَٰهُ أُجَاجًۭا فَلَوْلَا تَشْكُرُونَ",
+     "transliteration": "Law nashaaa'u ja'alnaahu ujaajan falaw laa tashkuroon",
+     "translation": "If We willed, We could make it bitter, so why are you not grateful?",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5049.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 71,
+     "arabicText": "أَفَرَءَيْتُمُ ٱلنَّارَ ٱلَّتِى تُورُونَ",
+     "transliteration": "Afara'aytumun naaral latee tooroon",
+     "translation": "And have you seen the fire that you ignite?",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5050.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 72,
+     "arabicText": "ءَأَنتُمْ أَنشَأْتُمْ شَجَرَتَهَآ أَمْ نَحْنُ ٱلْمُنشِـُٔونَ",
+     "transliteration": "'A-antum anshaatum shajaratahaaa am nahnul munshi'oon",
+     "translation": "Is it you who produced its tree, or are We the producer?",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5051.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 73,
+     "arabicText": "نَحْنُ جَعَلْنَٰهَا تَذْكِرَةًۭ وَمَتَٰعًۭا لِّلْمُقْوِينَ",
+     "transliteration": "Nahnu ja'alnaahaa tazkira tanw wa mataa'al lilmuqween",
+     "translation": "We have made it a reminder and provision for the travelers,",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5052.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 74,
+     "arabicText": "فَسَبِّحْ بِٱسْمِ رَبِّكَ ٱلْعَظِيمِ",
+     "transliteration": "Fasabbih bismi Rabbikal 'azeem",
+     "translation": "So exalt the name of your Lord, the Most Great.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5053.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 75,
+     "arabicText": "۞ فَلَآ أُقْسِمُ بِمَوَٰقِعِ ٱلنُّجُومِ",
+     "transliteration": "Falaa uqsimu bimaawaa qi'innujoom",
+     "translation": "Then I swear by the setting of the stars,",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5054.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 76,
+     "arabicText": "وَإِنَّهُۥ لَقَسَمٌۭ لَّوْ تَعْلَمُونَ عَظِيمٌ",
+     "transliteration": "Wa innahoo laqasamul lawta'lamoona'azeem",
+     "translation": "And indeed, it is an oath - if you could know - [most] great.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5055.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 77,
+     "arabicText": "إِنَّهُۥ لَقُرْءَانٌۭ كَرِيمٌۭ",
+     "transliteration": "Innahoo la quraanun kareem",
+     "translation": "Indeed, it is a noble Qur'an",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5056.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 78,
+     "arabicText": "فِى كِتَٰبٍۢ مَّكْنُونٍۢ",
+     "transliteration": "Fee kitaabim maknoon",
+     "translation": "In a Register well-protected;",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5057.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 79,
+     "arabicText": "لَّا يَمَسُّهُۥٓ إِلَّا ٱلْمُطَهَّرُونَ",
+     "transliteration": "Laa yamassuhooo illal mutahharoon",
+     "translation": "None touch it except the purified.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5058.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 80,
+     "arabicText": "تَنزِيلٌۭ مِّن رَّبِّ ٱلْعَٰلَمِينَ",
+     "transliteration": "Tanzeelum mir Rabbil'aalameen",
+     "translation": "[It is] a revelation from the Lord of the worlds.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5059.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 81,
+     "arabicText": "أَفَبِهَٰذَا ٱلْحَدِيثِ أَنتُم مُّدْهِنُونَ",
+     "transliteration": "Afabihaazal hadeesi antum mudhinoon",
+     "translation": "Then is it to this statement that you are indifferent",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5060.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 82,
+     "arabicText": "وَتَجْعَلُونَ رِزْقَكُمْ أَنَّكُمْ تُكَذِّبُونَ",
+     "transliteration": "Wa taj'aloona rizqakum annakum tukazziboon",
+     "translation": "And make [the thanks for] your provision that you deny [the Provider]?",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5061.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 83,
+     "arabicText": "فَلَوْلَآ إِذَا بَلَغَتِ ٱلْحُلْقُومَ",
+     "transliteration": "Falaw laaa izaa balaghatil hulqoom",
+     "translation": "Then why, when the soul at death reaches the throat",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5062.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 84,
+     "arabicText": "وَأَنتُمْ حِينَئِذٍۢ تَنظُرُونَ",
+     "transliteration": "Wa antum heena'izin tanzuroon",
+     "translation": "And you are at that time looking on -",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5063.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 85,
+     "arabicText": "وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنكُمْ وَلَٰكِن لَّا تُبْصِرُونَ",
+     "transliteration": "Wa nahnu aqrabu ilaihi minkum wa laakil laa tubsiroon",
+     "translation": "And Our angels are nearer to him than you, but you do not see -",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5064.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 86,
+     "arabicText": "فَلَوْلَآ إِن كُنتُمْ غَيْرَ مَدِينِينَ",
+     "transliteration": "Falaw laaa in kuntum ghira madeeneen",
+     "translation": "Then why do you not, if you are not to be recompensed,",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5065.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 87,
+     "arabicText": "تَرْجِعُونَهَآ إِن كُنتُمْ صَٰدِقِينَ",
+     "transliteration": "Tarji'oonahaaa in kuntum saadiqeen",
+     "translation": "Bring it back, if you should be truthful?",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5066.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 88,
+     "arabicText": "فَأَمَّآ إِن كَانَ مِنَ ٱلْمُقَرَّبِينَ",
+     "transliteration": "Fa ammaaa in kaana minal muqarrabeen",
+     "translation": "And if the deceased was of those brought near to Allah,",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5067.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 89,
+     "arabicText": "فَرَوْحٌۭ وَرَيْحَانٌۭ وَجَنَّتُ نَعِيمٍۢ",
+     "transliteration": "Farawhunw wa raihaa nunw wa jannatu na'eem",
+     "translation": "Then [for him is] rest and bounty and a garden of pleasure.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5068.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 90,
+     "arabicText": "وَأَمَّآ إِن كَانَ مِنْ أَصْحَٰبِ ٱلْيَمِينِ",
+     "transliteration": "Wa ammaaa in kaana min as haabil yameen",
+     "translation": "And if he was of the companions of the right,",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5069.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 91,
+     "arabicText": "فَسَلَٰمٌۭ لَّكَ مِنْ أَصْحَٰبِ ٱلْيَمِينِ",
+     "transliteration": "Fasalaamul laka min as haabil yameen",
+     "translation": "Then [the angels will say], \"Peace for you; [you are] from the companions of the right.\"",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5070.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 92,
+     "arabicText": "وَأَمَّآ إِن كَانَ مِنَ ٱلْمُكَذِّبِينَ ٱلضَّآلِّينَ",
+     "transliteration": "Wa ammaaa in kaana minal mukazzibeenad daaalleen",
+     "translation": "But if he was of the deniers [who were] astray,",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5071.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 93,
+     "arabicText": "فَنُزُلٌۭ مِّنْ حَمِيمٍۢ",
+     "transliteration": "Fanuzulum min hameem",
+     "translation": "Then [for him is] accommodation of scalding water",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5072.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 94,
+     "arabicText": "وَتَصْلِيَةُ جَحِيمٍ",
+     "transliteration": "Wa tasliyatu jaheem",
+     "translation": "And burning in Hellfire",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5073.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 95,
+     "arabicText": "إِنَّ هَٰذَا لَهُوَ حَقُّ ٱلْيَقِينِ",
+     "transliteration": "Inna haaza lahuwa haqqul yaqeen",
+     "translation": "Indeed, this is the true certainty,",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5074.mp3"
+    },
+    {
+     "surahNumber": 56,
+     "ayahNumber": 96,
+     "arabicText": "فَسَبِّحْ بِٱسْمِ رَبِّكَ ٱلْعَظِيمِ",
+     "transliteration": "Fasabbih bismi rabbikal 'azeem",
+     "translation": "So exalt the name of your Lord, the Most Great.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5075.mp3"
+    }
+   ],
+   "surahNumber": 56,
+   "arabicText": "إِذَا وَقَعَتِ ٱلْوَاقِعَةُ",
+   "transliteration": "Izaa waqa'atil waaqi'ah",
+   "translation": "When the Occurrence occurs,",
+   "audioUrl": "https://cdn.islamic.network/quran/audio-surah/128/ar.alafasy/56.mp3"
+  },
+  {
+   "id": "dhikr_tasbih_fatimah",
+   "kind": "DHIKR",
+   "priority": "MUSTAHAB",
+   "situations": [
+    "BEFORE_SLEEP"
+   ],
+   "title": "Tasbih Fatimah (33 · 33 · 34)",
+   "arabicText": "سُبْحَانَ اللَّهِ، وَالْحَمْدُ لِلَّهِ، وَاللَّهُ أَكْبَرُ",
+   "transliteration": "SubhanAllah (×33), Alhamdulillah (×33), Allahu akbar (×34).",
+   "translation": "Glory be to Allah (×33), all praise is for Allah (×33), Allah is the Greatest (×34).",
+   "recommendedTargetCount": 100,
+   "hadithVirtue": "Taught to Fatimah and Ali for bedtime: \"It is better for you than a servant.\"",
+   "virtueReference": "Sahih al-Bukhari 3705; Sahih Muslim 2727",
+   "sababAndAdabTip": "Lie on your right side and count on your fingers — even on the most tired night.",
+   "tiredModeEssential": true,
+   "sortOrder": 230,
+   "ayahs": [],
+   "audioUrl": null,
+   "surahNumber": null
+  },
+  {
+   "id": "dua_before_sleep",
+   "kind": "DUA",
+   "priority": "MUSTAHAB",
+   "situations": [
+    "BEFORE_SLEEP"
+   ],
+   "title": "Before Sleeping",
+   "arabicText": "بِاسْمِكَ اللَّهُمَّ أَمُوتُ وَأَحْيَا",
+   "transliteration": "Bismika Allahumma amutu wa ahya.",
+   "translation": "In Your name, O Allah, I die and I live.",
+   "recommendedTargetCount": 1,
+   "hadithVirtue": "The Prophet ﷺ said it every night as he went to bed.",
+   "virtueReference": "Sahih al-Bukhari 6324",
+   "sababAndAdabTip": "Sleep with wudu on your right side, as the Prophet ﷺ advised (Bukhari 247).",
+   "sortOrder": 240,
+   "ayahs": [],
+   "audioUrl": null,
+   "surahNumber": null
+  },
+  {
+   "id": "dua_anxiety_sorrow",
+   "kind": "DUA",
+   "priority": "MUSTAHAB",
+   "situations": [
+    "ANXIOUS"
+   ],
+   "title": "Refuge from Anxiety and Sorrow",
+   "arabicText": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْهَمِّ وَالْحَزَنِ، وَالْعَجْزِ وَالْكَسَلِ، وَالْبُخْلِ وَالْجُبْنِ، وَضَلَعِ الدَّيْنِ وَغَلَبَةِ الرِّجَالِ",
+   "transliteration": "Allahumma inni a'udhu bika minal-hammi wal-hazan, wal-'ajzi wal-kasal, wal-bukhli wal-jubn, wa dala'id-dayni wa ghalabatir-rijal.",
+   "translation": "O Allah, I seek refuge in You from anxiety and sorrow, from weakness and laziness, from miserliness and cowardice, and from the burden of debt and being overpowered by men.",
+   "recommendedTargetCount": 1,
+   "hadithVirtue": "The Prophet ﷺ often sought refuge with this supplication.",
+   "virtueReference": "Sahih al-Bukhari 6369",
+   "sababAndAdabTip": "Write down what worries you, then do the one thing within your control.",
+   "sortOrder": 250,
+   "ayahs": [],
+   "audioUrl": null,
+   "surahNumber": null
+  },
+  {
+   "id": "dua_yunus",
+   "kind": "DUA",
+   "priority": "MUSTAHAB",
+   "situations": [
+    "ANXIOUS",
+    "HARDSHIP"
+   ],
+   "title": "Dua of Yunus (Dhun-Nun)",
+   "arabicText": "لَا إِلَهَ إِلَّا أَنْتَ سُبْحَانَكَ إِنِّي كُنْتُ مِنَ الظَّالِمِينَ",
+   "transliteration": "La ilaha illa anta subhanaka inni kuntu minaz-zalimin.",
+   "translation": "None has the right to be worshipped except You. Glory be to You; indeed, I have been among the wrongdoers. (21:87)",
+   "recommendedTargetCount": 1,
+   "hadithVirtue": "No Muslim supplicates with it for anything except that Allah answers him.",
+   "virtueReference": "Jami' at-Tirmidhi 3505",
+   "sababAndAdabTip": "Admit your own part in the problem honestly, then take one small step to fix it.",
+   "sortOrder": 260,
+   "ayahs": [],
+   "audioUrl": null,
+   "surahNumber": null
+  },
+  {
+   "id": "dua_hasbunallah",
+   "kind": "DUA",
+   "priority": "MUSTAHAB",
+   "situations": [
+    "ANXIOUS",
+    "HARDSHIP"
+   ],
+   "title": "Hasbunallahu wa Ni'mal Wakil",
+   "arabicText": "حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ",
+   "transliteration": "Hasbunallahu wa ni'mal-wakil.",
+   "translation": "Allah is sufficient for us, and He is the best Disposer of affairs. (3:173)",
+   "recommendedTargetCount": 1,
+   "hadithVirtue": "Said by Ibrahim (peace be upon him) when thrown into the fire, and by Muhammad ﷺ when the people gathered against him.",
+   "virtueReference": "Sahih al-Bukhari 4563",
+   "sababAndAdabTip": "Do your utmost first, then leave the outcome to Allah.",
+   "sortOrder": 270,
+   "ayahs": [],
+   "audioUrl": null,
+   "surahNumber": null
+  },
+  {
+   "id": "dua_distress_karb",
+   "kind": "DUA",
+   "priority": "MUSTAHAB",
+   "situations": [
+    "HARDSHIP"
+   ],
+   "title": "Supplication in Times of Distress",
+   "arabicText": "لَا إِلَهَ إِلَّا اللَّهُ الْعَظِيمُ الْحَلِيمُ، لَا إِلَهَ إِلَّا اللَّهُ رَبُّ الْعَرْشِ الْعَظِيمِ، لَا إِلَهَ إِلَّا اللَّهُ رَبُّ السَّمَاوَاتِ وَرَبُّ الْأَرْضِ وَرَبُّ الْعَرْشِ الْكَرِيمِ",
+   "transliteration": "La ilaha illallahul-'azimul-halim. La ilaha illallahu rabbul-'arshil-'azim. La ilaha illallahu rabbus-samawati wa rabbul-ardi wa rabbul-'arshil-karim.",
+   "translation": "None has the right to be worshipped except Allah, the Magnificent, the Forbearing. None has the right to be worshipped except Allah, Lord of the Magnificent Throne. None has the right to be worshipped except Allah, Lord of the heavens, Lord of the earth, and Lord of the Noble Throne.",
+   "recommendedTargetCount": 1,
+   "hadithVirtue": "The Prophet ﷺ would say this in times of distress.",
+   "virtueReference": "Sahih al-Bukhari 6346",
+   "sababAndAdabTip": "Make wudu, pray two rak'ahs, and talk it through with someone you trust.",
+   "sortOrder": 280,
+   "ayahs": [],
+   "audioUrl": null,
+   "surahNumber": null
+  },
+  {
+   "id": "dua_hardship_ease",
+   "kind": "DUA",
+   "priority": "MUSTAHAB",
+   "situations": [
+    "HARDSHIP"
+   ],
+   "title": "Nothing Is Easy Except What You Make Easy",
+   "arabicText": "اللَّهُمَّ لَا سَهْلَ إِلَّا مَا جَعَلْتَهُ سَهْلًا، وَأَنْتَ تَجْعَلُ الْحَزْنَ إِذَا شِئْتَ سَهْلًا",
+   "transliteration": "Allahumma la sahla illa ma ja'altahu sahla, wa anta taj'alul-hazna idha shi'ta sahla.",
+   "translation": "O Allah, nothing is easy except what You make easy, and You make the difficult easy if You will.",
+   "recommendedTargetCount": 1,
+   "hadithVirtue": "A supplication of the Prophet ﷺ for when a matter becomes difficult.",
+   "virtueReference": "Sahih Ibn Hibban (Mawarid 2427); Ibn as-Sunni 351",
+   "sababAndAdabTip": "Break the hard task into its next small step and start it now.",
+   "sortOrder": 290,
+   "ayahs": [],
+   "audioUrl": null,
+   "surahNumber": null
+  },
+  {
+   "id": "dua_rain",
+   "kind": "DUA",
+   "priority": "MUSTAHAB",
+   "situations": [
+    "RAIN"
+   ],
+   "title": "When It Rains",
+   "arabicText": "اللَّهُمَّ صَيِّبًا نَافِعًا",
+   "transliteration": "Allahumma sayyiban nafi'a.",
+   "translation": "O Allah, (let it be) a beneficial rain.",
+   "recommendedTargetCount": 1,
+   "hadithVirtue": "The Prophet ﷺ said this whenever he saw rain.",
+   "virtueReference": "Sahih al-Bukhari 1032",
+   "sababAndAdabTip": "Pause to feel the mercy for a moment, then drive carefully on wet roads.",
+   "sortOrder": 300,
+   "ayahs": [],
+   "audioUrl": null,
+   "surahNumber": null
+  },
+  {
+   "id": "dua_gratitude_pleasing",
+   "kind": "DUA",
+   "priority": "MUSTAHAB",
+   "situations": [
+    "GRATITUDE"
+   ],
+   "title": "On Seeing Something Pleasing",
+   "arabicText": "الْحَمْدُ لِلَّهِ الَّذِي بِنِعْمَتِهِ تَتِمُّ الصَّالِحَاتُ",
+   "transliteration": "Alhamdulillahil-ladhi bi ni'matihi tatimmus-salihat.",
+   "translation": "All praise is for Allah, by whose favour good things are completed.",
+   "recommendedTargetCount": 1,
+   "hadithVirtue": "The Prophet ﷺ said this when he saw something that pleased him.",
+   "virtueReference": "Sunan Ibn Majah 3803",
+   "sababAndAdabTip": "Thank the person through whom the blessing came — whoever doesn't thank people doesn't thank Allah (Abi Dawud 4811).",
+   "sortOrder": 310,
+   "ayahs": [],
+   "audioUrl": null,
+   "surahNumber": null
+  },
+  {
+   "id": "quran_al_kahf",
+   "kind": "SURAH",
+   "priority": "MUSTAHAB",
+   "situations": [
+    "FRIDAY"
+   ],
+   "title": "Surah Al-Kahf",
+   "recommendedTargetCount": 1,
+   "hadithVirtue": "Whoever reads Al-Kahf on Friday, light will shine for him between the two Fridays.",
+   "virtueReference": "Al-Hakim, al-Mustadrak 3392; Sahih al-Jami' 6470",
+   "sababAndAdabTip": "Split it into two short sittings — Thursday night and Friday morning.",
+   "sortOrder": 320,
+   "ayahs": [
+    {
+     "surahNumber": 18,
+     "ayahNumber": 1,
+     "arabicText": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِىٓ أَنزَلَ عَلَىٰ عَبْدِهِ ٱلْكِتَٰبَ وَلَمْ يَجْعَل لَّهُۥ عِوَجَا ۜ",
+     "transliteration": "Alhamdu lillaahil lazeee anzala 'alaa 'abdihil kitaaba wa lam yaj'al lahoo 'iwajaa",
+     "translation": "[All] praise is [due] to Allah, who has sent down upon His Servant the Book and has not made therein any deviance.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2141.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 2,
+     "arabicText": "قَيِّمًۭا لِّيُنذِرَ بَأْسًۭا شَدِيدًۭا مِّن لَّدُنْهُ وَيُبَشِّرَ ٱلْمُؤْمِنِينَ ٱلَّذِينَ يَعْمَلُونَ ٱلصَّٰلِحَٰتِ أَنَّ لَهُمْ أَجْرًا حَسَنًۭا",
+     "transliteration": "Qaiyimal liyunzira baasan shadeedam mil ladunhu wa yubashshiral mu'mineenal lazeena ya'maloonas saalihaati anna lahum ajran hasanaa",
+     "translation": "[He has made it] straight, to warn of severe punishment from Him and to give good tidings to the believers who do righteous deeds that they will have a good reward",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2142.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 3,
+     "arabicText": "مَّٰكِثِينَ فِيهِ أَبَدًۭا",
+     "transliteration": "Maakiseena feehi abadaa",
+     "translation": "In which they will remain forever",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2143.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 4,
+     "arabicText": "وَيُنذِرَ ٱلَّذِينَ قَالُوا۟ ٱتَّخَذَ ٱللَّهُ وَلَدًۭا",
+     "transliteration": "Wa yunziral lazeena qaalut takhazal laahu waladaa",
+     "translation": "And to warn those who say, \"Allah has taken a son.\"",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2144.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 5,
+     "arabicText": "مَّا لَهُم بِهِۦ مِنْ عِلْمٍۢ وَلَا لِءَابَآئِهِمْ ۚ كَبُرَتْ كَلِمَةًۭ تَخْرُجُ مِنْ أَفْوَٰهِهِمْ ۚ إِن يَقُولُونَ إِلَّا كَذِبًۭا",
+     "transliteration": "Maa lahum bihee min 'ilminw wa laa li aabaaa'ihim; kaburat kalimatan takhruju min afwaahihim; iny yaqooloona illaa kazibaa",
+     "translation": "They have no knowledge of it, nor had their fathers. Grave is the word that comes out of their mouths; they speak not except a lie.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2145.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 6,
+     "arabicText": "فَلَعَلَّكَ بَٰخِعٌۭ نَّفْسَكَ عَلَىٰٓ ءَاثَٰرِهِمْ إِن لَّمْ يُؤْمِنُوا۟ بِهَٰذَا ٱلْحَدِيثِ أَسَفًا",
+     "transliteration": "Fala'allaka baakhi'un nafsaka 'alaaa aasaarihim illam yu;minoo bihaazal hadeesi asafaa",
+     "translation": "Then perhaps you would kill yourself through grief over them, [O Muhammad], if they do not believe in this message, [and] out of sorrow.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2146.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 7,
+     "arabicText": "إِنَّا جَعَلْنَا مَا عَلَى ٱلْأَرْضِ زِينَةًۭ لَّهَا لِنَبْلُوَهُمْ أَيُّهُمْ أَحْسَنُ عَمَلًۭا",
+     "transliteration": "Innaa ja'alnaa ma 'alal ardi zeenatal lahaa linabluwahum ayyuhum ahsanu 'amalaa",
+     "translation": "Indeed, We have made that which is on the earth adornment for it that We may test them [as to] which of them is best in deed.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2147.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 8,
+     "arabicText": "وَإِنَّا لَجَٰعِلُونَ مَا عَلَيْهَا صَعِيدًۭا جُرُزًا",
+     "transliteration": "Wa innaa lajaa 'iloona maa 'alaihaa sa'aeedan juruzaa",
+     "translation": "And indeed, We will make that which is upon it [into] a barren ground.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2148.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 9,
+     "arabicText": "أَمْ حَسِبْتَ أَنَّ أَصْحَٰبَ ٱلْكَهْفِ وَٱلرَّقِيمِ كَانُوا۟ مِنْ ءَايَٰتِنَا عَجَبًا",
+     "transliteration": "Am hasibta anna Ashaabal Kahfi war Raqeemi kaanoo min Aayaatinaa 'ajabaa",
+     "translation": "Or have you thought that the companions of the cave and the inscription were, among Our signs, a wonder?",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2149.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 10,
+     "arabicText": "إِذْ أَوَى ٱلْفِتْيَةُ إِلَى ٱلْكَهْفِ فَقَالُوا۟ رَبَّنَآ ءَاتِنَا مِن لَّدُنكَ رَحْمَةًۭ وَهَيِّئْ لَنَا مِنْ أَمْرِنَا رَشَدًۭا",
+     "transliteration": "Iz awal fityatu ilal Kahfi faqaaloo Rabbanaaa aatinaa mil ladunka rahmatanw wa haiyi' lanaa min amrinaa rashadaa",
+     "translation": "[Mention] when the youths retreated to the cave and said, \"Our Lord, grant us from Yourself mercy and prepare for us from our affair right guidance.\"",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2150.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 11,
+     "arabicText": "فَضَرَبْنَا عَلَىٰٓ ءَاذَانِهِمْ فِى ٱلْكَهْفِ سِنِينَ عَدَدًۭا",
+     "transliteration": "Fadarabnaa 'alaaa aazaanihim fil Kahfi seneena 'adadaa",
+     "translation": "So We cast [a cover of sleep] over their ears within the cave for a number of years.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2151.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 12,
+     "arabicText": "ثُمَّ بَعَثْنَٰهُمْ لِنَعْلَمَ أَىُّ ٱلْحِزْبَيْنِ أَحْصَىٰ لِمَا لَبِثُوٓا۟ أَمَدًۭا",
+     "transliteration": "Summa ba'asnaahum lina'lama ayyul hizbaini ahsaa limaa labisooo amadaa",
+     "translation": "Then We awakened them that We might show which of the two factions was most precise in calculating what [extent] they had remained in time.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2152.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 13,
+     "arabicText": "نَّحْنُ نَقُصُّ عَلَيْكَ نَبَأَهُم بِٱلْحَقِّ ۚ إِنَّهُمْ فِتْيَةٌ ءَامَنُوا۟ بِرَبِّهِمْ وَزِدْنَٰهُمْ هُدًۭى",
+     "transliteration": "Nahnu naqussu 'alaika naba ahum bilhaqq; innahum fityatun aamanoo bi Rabbihim wa zidnaahum hudaa",
+     "translation": "It is We who relate to you, [O Muhammad], their story in truth. Indeed, they were youths who believed in their Lord, and We increased them in guidance.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2153.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 14,
+     "arabicText": "وَرَبَطْنَا عَلَىٰ قُلُوبِهِمْ إِذْ قَامُوا۟ فَقَالُوا۟ رَبُّنَا رَبُّ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ لَن نَّدْعُوَا۟ مِن دُونِهِۦٓ إِلَٰهًۭا ۖ لَّقَدْ قُلْنَآ إِذًۭا شَطَطًا",
+     "transliteration": "Wa rabatnaa 'alaa quloo bihim iz qaamoo faqaaloo Rabbunaa Rabbus samaawaati wal ardi lan nad'uwa min dooniheee ilaahal laqad qulnaaa izan shatataa",
+     "translation": "And We made firm their hearts when they stood up and said, \"Our Lord is the Lord of the heavens and the earth. Never will we invoke besides Him any deity. We would have certainly spoken, then, an excessive transgression.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2154.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 15,
+     "arabicText": "هَٰٓؤُلَآءِ قَوْمُنَا ٱتَّخَذُوا۟ مِن دُونِهِۦٓ ءَالِهَةًۭ ۖ لَّوْلَا يَأْتُونَ عَلَيْهِم بِسُلْطَٰنٍۭ بَيِّنٍۢ ۖ فَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًۭا",
+     "transliteration": "Haaa'ulaaa'i qawmunat takhazoo min dooniheee aalihatal law laa yaatoona 'alaihim bisultaanim baiyin; faman azlamu mimmaniftaraa 'alal laahi kazibaa",
+     "translation": "These, our people, have taken besides Him deities. Why do they not bring for [worship of] them a clear authority? And who is more unjust than one who invents about Allah a lie?\"",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2155.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 16,
+     "arabicText": "وَإِذِ ٱعْتَزَلْتُمُوهُمْ وَمَا يَعْبُدُونَ إِلَّا ٱللَّهَ فَأْوُۥٓا۟ إِلَى ٱلْكَهْفِ يَنشُرْ لَكُمْ رَبُّكُم مِّن رَّحْمَتِهِۦ وَيُهَيِّئْ لَكُم مِّنْ أَمْرِكُم مِّرْفَقًۭا",
+     "transliteration": "Wa izi'tazal tumoohum wa maa ya'budoona illal laaha faawooo ilal kahfi yanshur lakum Rabbukum mir rahmatihee wa yuhaiyi' lakum min amrikum mirfaqa",
+     "translation": "[The youths said to one another], \"And when you have withdrawn from them and that which they worship other than Allah, retreat to the cave. Your Lord will spread out for you of His mercy and will prepare for you from your affair facility.\"",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2156.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 17,
+     "arabicText": "۞ وَتَرَى ٱلشَّمْسَ إِذَا طَلَعَت تَّزَٰوَرُ عَن كَهْفِهِمْ ذَاتَ ٱلْيَمِينِ وَإِذَا غَرَبَت تَّقْرِضُهُمْ ذَاتَ ٱلشِّمَالِ وَهُمْ فِى فَجْوَةٍۢ مِّنْهُ ۚ ذَٰلِكَ مِنْ ءَايَٰتِ ٱللَّهِ ۗ مَن يَهْدِ ٱللَّهُ فَهُوَ ٱلْمُهْتَدِ ۖ وَمَن يُضْلِلْ فَلَن تَجِدَ لَهُۥ وَلِيًّۭا مُّرْشِدًۭا",
+     "transliteration": "Wa tarash shamsa izaa tala'at tazaawaru 'an kahfihim zaatal yameeni wa izaa gharabat taqriduhum zaatash shimaali wa hum fee fajwatim minh; zaalika min Aayaatillaah; mai yahdil laahu fahuwal muhtad, wa mai yudlil falan tajida lahoo waliyyam murshidaa",
+     "translation": "And [had you been present], you would see the sun when it rose, inclining away from their cave on the right, and when it set, passing away from them on the left, while they were [laying] within an open space thereof. That was from the signs of Allah. He whom Allah guides is the [rightly] guided, but he whom He leaves astray - never will you find for him a protecting guide.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2157.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 18,
+     "arabicText": "وَتَحْسَبُهُمْ أَيْقَاظًۭا وَهُمْ رُقُودٌۭ ۚ وَنُقَلِّبُهُمْ ذَاتَ ٱلْيَمِينِ وَذَاتَ ٱلشِّمَالِ ۖ وَكَلْبُهُم بَٰسِطٌۭ ذِرَاعَيْهِ بِٱلْوَصِيدِ ۚ لَوِ ٱطَّلَعْتَ عَلَيْهِمْ لَوَلَّيْتَ مِنْهُمْ فِرَارًۭا وَلَمُلِئْتَ مِنْهُمْ رُعْبًۭا",
+     "transliteration": "Wa tahsabuhum ayqaazanw wa hum ruqood; wa nuqallibuhum zaatal yameeni wa zaatash shimaali wa kalbuhum baasitun ziraa'ayhi bilwaseed; lawit tala'ta 'alaihim la wallaita minhum firaaranw wa lamuli'ta minhum rubaa",
+     "translation": "And you would think them awake, while they were asleep. And We turned them to the right and to the left, while their dog stretched his forelegs at the entrance. If you had looked at them, you would have turned from them in flight and been filled by them with terror.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2158.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 19,
+     "arabicText": "وَكَذَٰلِكَ بَعَثْنَٰهُمْ لِيَتَسَآءَلُوا۟ بَيْنَهُمْ ۚ قَالَ قَآئِلٌۭ مِّنْهُمْ كَمْ لَبِثْتُمْ ۖ قَالُوا۟ لَبِثْنَا يَوْمًا أَوْ بَعْضَ يَوْمٍۢ ۚ قَالُوا۟ رَبُّكُمْ أَعْلَمُ بِمَا لَبِثْتُمْ فَٱبْعَثُوٓا۟ أَحَدَكُم بِوَرِقِكُمْ هَٰذِهِۦٓ إِلَى ٱلْمَدِينَةِ فَلْيَنظُرْ أَيُّهَآ أَزْكَىٰ طَعَامًۭا فَلْيَأْتِكُم بِرِزْقٍۢ مِّنْهُ وَلْيَتَلَطَّفْ وَلَا يُشْعِرَنَّ بِكُمْ أَحَدًا",
+     "transliteration": "Wa kazaalika ba'asnaahum liyatasaaa'aloo bainahum; qaala qaaa'ilum minhum kam labistum qaaloo labisnaa yawman aw ba'da yawm; qaaloo Rabbukum a'almu bimaa labistum fab'asooo ahadakum biwariqikum haazihee ilal madeenati falyanzur ayyuhaaa azkaa ta'aaman falyaatikum birizqim minhu walyatalattaf wa laa yush'iranna bikum ahadaa",
+     "translation": "And similarly, We awakened them that they might question one another. Said a speaker from among them, \"How long have you remained [here]?\" They said, \"We have remained a day or part of a day.\" They said, \"Your Lord is most knowing of how long you remained. So send one of you with this silver coin of yours to the city and let him look to which is the best of food and bring you provision from it and let him be cautious. And let no one be aware of you.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2159.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 20,
+     "arabicText": "إِنَّهُمْ إِن يَظْهَرُوا۟ عَلَيْكُمْ يَرْجُمُوكُمْ أَوْ يُعِيدُوكُمْ فِى مِلَّتِهِمْ وَلَن تُفْلِحُوٓا۟ إِذًا أَبَدًۭا",
+     "transliteration": "Innahum iny yazharoo 'alaikum yarjumookum aw yu'eedookum fee millatihim wa lan tuflihooo izan abadaa",
+     "translation": "Indeed, if they come to know of you, they will stone you or return you to their religion. And never would you succeed, then - ever.\"",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2160.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 21,
+     "arabicText": "وَكَذَٰلِكَ أَعْثَرْنَا عَلَيْهِمْ لِيَعْلَمُوٓا۟ أَنَّ وَعْدَ ٱللَّهِ حَقٌّۭ وَأَنَّ ٱلسَّاعَةَ لَا رَيْبَ فِيهَآ إِذْ يَتَنَٰزَعُونَ بَيْنَهُمْ أَمْرَهُمْ ۖ فَقَالُوا۟ ٱبْنُوا۟ عَلَيْهِم بُنْيَٰنًۭا ۖ رَّبُّهُمْ أَعْلَمُ بِهِمْ ۚ قَالَ ٱلَّذِينَ غَلَبُوا۟ عَلَىٰٓ أَمْرِهِمْ لَنَتَّخِذَنَّ عَلَيْهِم مَّسْجِدًۭا",
+     "transliteration": "Wa kazaalika a'sarnaa 'alaihim liya'lamooo anna wa'dal laahi haqqunw wa annas Saa'ata laa raiba feehaa iz yatanaaza'oona bainahum amrahum faqaalub noo 'alaihim bunyaanaa; Rabbuhum a'lamu bihim; qaalal lazeena ghalaboo 'alaaa amrihim lanat takhizanna 'alaihim masjidaa",
+     "translation": "And similarly, We caused them to be found that they [who found them] would know that the promise of Allah is truth and that of the Hour there is no doubt. [That was] when they disputed among themselves about their affair and [then] said, \"Construct over them a structure. Their Lord is most knowing about them.\" Said those who prevailed in the matter, \"We will surely take [for ourselves] over them a masjid.\"",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2161.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 22,
+     "arabicText": "سَيَقُولُونَ ثَلَٰثَةٌۭ رَّابِعُهُمْ كَلْبُهُمْ وَيَقُولُونَ خَمْسَةٌۭ سَادِسُهُمْ كَلْبُهُمْ رَجْمًۢا بِٱلْغَيْبِ ۖ وَيَقُولُونَ سَبْعَةٌۭ وَثَامِنُهُمْ كَلْبُهُمْ ۚ قُل رَّبِّىٓ أَعْلَمُ بِعِدَّتِهِم مَّا يَعْلَمُهُمْ إِلَّا قَلِيلٌۭ ۗ فَلَا تُمَارِ فِيهِمْ إِلَّا مِرَآءًۭ ظَٰهِرًۭا وَلَا تَسْتَفْتِ فِيهِم مِّنْهُمْ أَحَدًۭا",
+     "transliteration": "Sa yaqooloona salaasatur raabi'uhum kalbuhum wa yaqooloona khamsatun saadisuhum kalbuhum rajmam bilghaib; wa yaqooloona sab'atunw wa saaminuhum kalbuhum; qur Rabbeee a'lamu bi'iddatihim maa ya'lamuhum illaa qaleel; falaa tumaari feehim illaa miraaa'an zaahiranw wa laa tastafti feehim minhum ahadaa",
+     "translation": "They will say there were three, the fourth of them being their dog; and they will say there were five, the sixth of them being their dog - guessing at the unseen; and they will say there were seven, and the eighth of them was their dog. Say, [O Muhammad], \"My Lord is most knowing of their number. None knows them except a few. So do not argue about them except with an obvious argument and do not inquire about them among [the speculators] from anyone.\"",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2162.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 23,
+     "arabicText": "وَلَا تَقُولَنَّ لِشَا۟ىْءٍ إِنِّى فَاعِلٌۭ ذَٰلِكَ غَدًا",
+     "transliteration": "Wa laa taqoolanna lishai'in innee faa'ilun zaalika ghadaa",
+     "translation": "And never say of anything, \"Indeed, I will do that tomorrow,\"",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2163.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 24,
+     "arabicText": "إِلَّآ أَن يَشَآءَ ٱللَّهُ ۚ وَٱذْكُر رَّبَّكَ إِذَا نَسِيتَ وَقُلْ عَسَىٰٓ أَن يَهْدِيَنِ رَبِّى لِأَقْرَبَ مِنْ هَٰذَا رَشَدًۭا",
+     "transliteration": "Illaaa any yashaaa'al laah; wazkur Rabbaka izaa naseeta wa qul 'asaaa any yahdiyani Rabbee li aqraba min haazaa rashadaa",
+     "translation": "Except [when adding], \"If Allah wills.\" And remember your Lord when you forget [it] and say, \"Perhaps my Lord will guide me to what is nearer than this to right conduct.\"",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2164.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 25,
+     "arabicText": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+     "transliteration": "Wa labisoo fee kahfihim salaasa mi'atin sineena wazdaadoo tis'aa",
+     "translation": "And they remained in their cave for three hundred years and exceeded by nine.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2165.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 26,
+     "arabicText": "قُلِ ٱللَّهُ أَعْلَمُ بِمَا لَبِثُوا۟ ۖ لَهُۥ غَيْبُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۖ أَبْصِرْ بِهِۦ وَأَسْمِعْ ۚ مَا لَهُم مِّن دُونِهِۦ مِن وَلِىٍّۢ وَلَا يُشْرِكُ فِى حُكْمِهِۦٓ أَحَدًۭا",
+     "transliteration": "Qulil laahu a'lamu bimaa labisoo lahoo ghaibus samaawaati wal ardi absir bihee wa asmi'; maa lahum min doonihee minw waliyyinw wa laa yushriku fee hukmihee ahadaa",
+     "translation": "Say, \"Allah is most knowing of how long they remained. He has [knowledge of] the unseen [aspects] of the heavens and the earth. How Seeing is He and how Hearing! They have not besides Him any protector, and He shares not His legislation with anyone.\"",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2166.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 27,
+     "arabicText": "وَٱتْلُ مَآ أُوحِىَ إِلَيْكَ مِن كِتَابِ رَبِّكَ ۖ لَا مُبَدِّلَ لِكَلِمَٰتِهِۦ وَلَن تَجِدَ مِن دُونِهِۦ مُلْتَحَدًۭا",
+     "transliteration": "Watlu maaa oohiya ilaika min Kitaabi Rabbika laa mubaddila li Kalimaatihee wa lan tajida min doonihee multahadaa",
+     "translation": "And recite, [O Muhammad], what has been revealed to you of the Book of your Lord. There is no changer of His words, and never will you find in other than Him a refuge.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2167.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 28,
+     "arabicText": "وَٱصْبِرْ نَفْسَكَ مَعَ ٱلَّذِينَ يَدْعُونَ رَبَّهُم بِٱلْغَدَوٰةِ وَٱلْعَشِىِّ يُرِيدُونَ وَجْهَهُۥ ۖ وَلَا تَعْدُ عَيْنَاكَ عَنْهُمْ تُرِيدُ زِينَةَ ٱلْحَيَوٰةِ ٱلدُّنْيَا ۖ وَلَا تُطِعْ مَنْ أَغْفَلْنَا قَلْبَهُۥ عَن ذِكْرِنَا وَٱتَّبَعَ هَوَىٰهُ وَكَانَ أَمْرُهُۥ فُرُطًۭا",
+     "transliteration": "Wasbir nafsaka ma'al lazeena yad'oona Rabbahum bilghadaati wal'ashiyyi yureedoona Wajhahoo wa laa ta'du 'aynaaka 'anhum tureedu zeenatal hayaatid dunyaa wa laa tuti' man aghfalnaa qalbahoo 'an zikrinaa wattaba'a hawaahu wa kaana amruhoo furutaa",
+     "translation": "And keep yourself patient [by being] with those who call upon their Lord in the morning and the evening, seeking His countenance. And let not your eyes pass beyond them, desiring adornments of the worldly life, and do not obey one whose heart We have made heedless of Our remembrance and who follows his desire and whose affair is ever [in] neglect.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2168.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 29,
+     "arabicText": "وَقُلِ ٱلْحَقُّ مِن رَّبِّكُمْ ۖ فَمَن شَآءَ فَلْيُؤْمِن وَمَن شَآءَ فَلْيَكْفُرْ ۚ إِنَّآ أَعْتَدْنَا لِلظَّٰلِمِينَ نَارًا أَحَاطَ بِهِمْ سُرَادِقُهَا ۚ وَإِن يَسْتَغِيثُوا۟ يُغَاثُوا۟ بِمَآءٍۢ كَٱلْمُهْلِ يَشْوِى ٱلْوُجُوهَ ۚ بِئْسَ ٱلشَّرَابُ وَسَآءَتْ مُرْتَفَقًا",
+     "transliteration": "Wa qulil haqqu mir Rabbikum faman shaaa'a falyu minw wa man shaaa'a falyakfur; innaaa a'tadnaa lizzaalimeena Naaran ahaata bihim suraadiquhaa; wa iny yastagheesoo yaghaasoo bimaaa'in kalmuhli yashwil wujooh' bi'sash-sharaab; wa saaa'at murtafaqaa",
+     "translation": "And say, \"The truth is from your Lord, so whoever wills - let him believe; and whoever wills - let him disbelieve.\" Indeed, We have prepared for the wrongdoers a fire whose walls will surround them. And if they call for relief, they will be relieved with water like murky oil, which scalds [their] faces. Wretched is the drink, and evil is the resting place.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2169.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 30,
+     "arabicText": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ إِنَّا لَا نُضِيعُ أَجْرَ مَنْ أَحْسَنَ عَمَلًا",
+     "transliteration": "Innal lazeena aamanoo wa 'amilus saalihaati innaa laa nudee'u ajra man ahsana 'amalaa",
+     "translation": "Indeed, those who have believed and done righteous deeds - indeed, We will not allow to be lost the reward of any who did well in deeds.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2170.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 31,
+     "arabicText": "أُو۟لَٰٓئِكَ لَهُمْ جَنَّٰتُ عَدْنٍۢ تَجْرِى مِن تَحْتِهِمُ ٱلْأَنْهَٰرُ يُحَلَّوْنَ فِيهَا مِنْ أَسَاوِرَ مِن ذَهَبٍۢ وَيَلْبَسُونَ ثِيَابًا خُضْرًۭا مِّن سُندُسٍۢ وَإِسْتَبْرَقٍۢ مُّتَّكِـِٔينَ فِيهَا عَلَى ٱلْأَرَآئِكِ ۚ نِعْمَ ٱلثَّوَابُ وَحَسُنَتْ مُرْتَفَقًۭا",
+     "transliteration": "Ulaaa'ika lahum Jannaatu 'Adnin tajree min tahtihimul anhaaru yuhallawna feehaa min asaawira min zahabinw wa yalbasoona siyaaban khudram min sundusinw wa istabraqim muttaki'eena feehaa 'alal araaa'ik; ni'mas sawaab; wa hasunat murtafaqaa",
+     "translation": "Those will have gardens of perpetual residence; beneath them rivers will flow. They will be adorned therein with bracelets of gold and will wear green garments of fine silk and brocade, reclining therein on adorned couches. Excellent is the reward, and good is the resting place.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2171.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 32,
+     "arabicText": "۞ وَٱضْرِبْ لَهُم مَّثَلًۭا رَّجُلَيْنِ جَعَلْنَا لِأَحَدِهِمَا جَنَّتَيْنِ مِنْ أَعْنَٰبٍۢ وَحَفَفْنَٰهُمَا بِنَخْلٍۢ وَجَعَلْنَا بَيْنَهُمَا زَرْعًۭا",
+     "transliteration": "Wadrib lahum masalar rajulaini ja'alnaa li ahadihimaa jannataini min a'naabinw wa hafafnaahumaa binakhilinw wa ja'alnaa bainahumaa zar'aa",
+     "translation": "And present to them an example of two men: We granted to one of them two gardens of grapevines, and We bordered them with palm trees and placed between them [fields of] crops.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2172.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 33,
+     "arabicText": "كِلْتَا ٱلْجَنَّتَيْنِ ءَاتَتْ أُكُلَهَا وَلَمْ تَظْلِم مِّنْهُ شَيْـًۭٔا ۚ وَفَجَّرْنَا خِلَٰلَهُمَا نَهَرًۭا",
+     "transliteration": "Kiltal jannataini aatat ukulahaa wa lam tazlim minhu shai'anw wa fajjarnaa khi laalahumaa naharaa",
+     "translation": "Each of the two gardens produced its fruit and did not fall short thereof in anything. And We caused to gush forth within them a river.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2173.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 34,
+     "arabicText": "وَكَانَ لَهُۥ ثَمَرٌۭ فَقَالَ لِصَٰحِبِهِۦ وَهُوَ يُحَاوِرُهُۥٓ أَنَا۠ أَكْثَرُ مِنكَ مَالًۭا وَأَعَزُّ نَفَرًۭا",
+     "transliteration": "Wa kaana lahoo samarun faqaala lisaahibihee wa huwa yuhaawiruhoo ana aksaru minka maalanw wa a'azzu nafaraa",
+     "translation": "And he had fruit, so he said to his companion while he was conversing with him, \"I am greater than you in wealth and mightier in [numbers of] men.\"",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2174.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 35,
+     "arabicText": "وَدَخَلَ جَنَّتَهُۥ وَهُوَ ظَالِمٌۭ لِّنَفْسِهِۦ قَالَ مَآ أَظُنُّ أَن تَبِيدَ هَٰذِهِۦٓ أَبَدًۭا",
+     "transliteration": "Wa dakhala jannatahoo wa huwa zaalimul linafsihee qaala maaa azunnu an tabeeda haaziheee abadaa",
+     "translation": "And he entered his garden while he was unjust to himself. He said, \"I do not think that this will perish - ever.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2175.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 36,
+     "arabicText": "وَمَآ أَظُنُّ ٱلسَّاعَةَ قَآئِمَةًۭ وَلَئِن رُّدِدتُّ إِلَىٰ رَبِّى لَأَجِدَنَّ خَيْرًۭا مِّنْهَا مُنقَلَبًۭا",
+     "transliteration": "Wa maaa azunnus Saa'ata qaaa'imatanw wa la'ir rudittu ilaa Rabbee la ajidanna khairam minhaa munqalabaa",
+     "translation": "And I do not think the Hour will occur. And even if I should be brought back to my Lord, I will surely find better than this as a return.\"",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2176.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 37,
+     "arabicText": "قَالَ لَهُۥ صَاحِبُهُۥ وَهُوَ يُحَاوِرُهُۥٓ أَكَفَرْتَ بِٱلَّذِى خَلَقَكَ مِن تُرَابٍۢ ثُمَّ مِن نُّطْفَةٍۢ ثُمَّ سَوَّىٰكَ رَجُلًۭا",
+     "transliteration": "Qaala lahoo saahibuhoo wa huwa yuhaawiruhooo akafarta billazee khalaqaka min turaabin summa min nutfatin summa sawwaaka rajulaa",
+     "translation": "His companion said to him while he was conversing with him, \"Have you disbelieved in He who created you from dust and then from a sperm-drop and then proportioned you [as] a man?",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2177.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 38,
+     "arabicText": "لَّٰكِنَّا۠ هُوَ ٱللَّهُ رَبِّى وَلَآ أُشْرِكُ بِرَبِّىٓ أَحَدًۭا",
+     "transliteration": "Laakinaa Huwal laahu Rabbee wa laa ushriku bi Rabbeee ahadaa",
+     "translation": "But as for me, He is Allah, my Lord, and I do not associate with my Lord anyone.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2178.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 39,
+     "arabicText": "وَلَوْلَآ إِذْ دَخَلْتَ جَنَّتَكَ قُلْتَ مَا شَآءَ ٱللَّهُ لَا قُوَّةَ إِلَّا بِٱللَّهِ ۚ إِن تَرَنِ أَنَا۠ أَقَلَّ مِنكَ مَالًۭا وَوَلَدًۭا",
+     "transliteration": "Wa law laaa iz dakhalta jannataka qulta maa shaaa'al laahu laa quwwata illaa billaah; in tarani ana aqalla minka maalanw wa waladaa",
+     "translation": "And why did you, when you entered your garden, not say, 'What Allah willed [has occurred]; there is no power except in Allah '? Although you see me less than you in wealth and children,",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2179.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 40,
+     "arabicText": "فَعَسَىٰ رَبِّىٓ أَن يُؤْتِيَنِ خَيْرًۭا مِّن جَنَّتِكَ وَيُرْسِلَ عَلَيْهَا حُسْبَانًۭا مِّنَ ٱلسَّمَآءِ فَتُصْبِحَ صَعِيدًۭا زَلَقًا",
+     "transliteration": "Fa'asaa Rabeee any yu'tiyani khairam min jannatika wa yursila 'alaihaa husbaanam minas samaaa'i fatusbiha sa'eedan zalaqaa",
+     "translation": "It may be that my Lord will give me [something] better than your garden and will send upon it a calamity from the sky, and it will become a smooth, dusty ground,",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2180.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 41,
+     "arabicText": "أَوْ يُصْبِحَ مَآؤُهَا غَوْرًۭا فَلَن تَسْتَطِيعَ لَهُۥ طَلَبًۭا",
+     "transliteration": "Aw yusbiha maaa'uhaaa ghawran falan tastatee'a lahoo talabaa",
+     "translation": "Or its water will become sunken [into the earth], so you would never be able to seek it.\"",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2181.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 42,
+     "arabicText": "وَأُحِيطَ بِثَمَرِهِۦ فَأَصْبَحَ يُقَلِّبُ كَفَّيْهِ عَلَىٰ مَآ أَنفَقَ فِيهَا وَهِىَ خَاوِيَةٌ عَلَىٰ عُرُوشِهَا وَيَقُولُ يَٰلَيْتَنِى لَمْ أُشْرِكْ بِرَبِّىٓ أَحَدًۭا",
+     "transliteration": "Wa uheeta bisamarihee faasbaha yuqallibu kaffaihi 'alaa maaa anfaqa feehaa wa hiya khaawiyatun 'alaa 'urooshihaa wa yaqoolu yaalaitanee lam ushrik bi Rabbeee ahadaa",
+     "translation": "And his fruits were encompassed [by ruin], so he began to turn his hands about [in dismay] over what he had spent on it, while it had collapsed upon its trellises, and said, \"Oh, I wish I had not associated with my Lord anyone.\"",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2182.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 43,
+     "arabicText": "وَلَمْ تَكُن لَّهُۥ فِئَةٌۭ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مُنتَصِرًا",
+     "transliteration": "Wa lam takul lahoo fi'atuny yansuroonahoo min doonil laahi wa maa kaana muntasiraa",
+     "translation": "And there was for him no company to aid him other than Allah, nor could he defend himself.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2183.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 44,
+     "arabicText": "هُنَالِكَ ٱلْوَلَٰيَةُ لِلَّهِ ٱلْحَقِّ ۚ هُوَ خَيْرٌۭ ثَوَابًۭا وَخَيْرٌ عُقْبًۭا",
+     "transliteration": "Hunaalikal walaayatu lillaahil haqq; huwa khairun sawaabanw wa khairun 'uqbaa",
+     "translation": "There the authority is [completely] for Allah, the Truth. He is best in reward and best in outcome.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2184.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 45,
+     "arabicText": "وَٱضْرِبْ لَهُم مَّثَلَ ٱلْحَيَوٰةِ ٱلدُّنْيَا كَمَآءٍ أَنزَلْنَٰهُ مِنَ ٱلسَّمَآءِ فَٱخْتَلَطَ بِهِۦ نَبَاتُ ٱلْأَرْضِ فَأَصْبَحَ هَشِيمًۭا تَذْرُوهُ ٱلرِّيَٰحُ ۗ وَكَانَ ٱللَّهُ عَلَىٰ كُلِّ شَىْءٍۢ مُّقْتَدِرًا",
+     "transliteration": "Wadrib lahum masalal hayaatid dunyaa kamaaa'in anzalnaahu minas samaaa'i fakhtalata bihee nabaatul ardi fa asbaha hasheeman tazroo hur riyaah; wa kaanal laahu 'alaa kulli shai'im muqtadiraa",
+     "translation": "And present to them the example of the life of this world, [its being] like rain which We send down from the sky, and the vegetation of the earth mingles with it and [then] it becomes dry remnants, scattered by the winds. And Allah is ever, over all things, Perfect in Ability.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2185.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 46,
+     "arabicText": "ٱلْمَالُ وَٱلْبَنُونَ زِينَةُ ٱلْحَيَوٰةِ ٱلدُّنْيَا ۖ وَٱلْبَٰقِيَٰتُ ٱلصَّٰلِحَٰتُ خَيْرٌ عِندَ رَبِّكَ ثَوَابًۭا وَخَيْرٌ أَمَلًۭا",
+     "transliteration": "Almaalu walbanoona zeenatul hayaatid dunya wal baaqiyaatus saalihaatu khairun 'inda Rabbika sawaabanw wa khairun amalaa",
+     "translation": "Wealth and children are [but] adornment of the worldly life. But the enduring good deeds are better to your Lord for reward and better for [one's] hope.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2186.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 47,
+     "arabicText": "وَيَوْمَ نُسَيِّرُ ٱلْجِبَالَ وَتَرَى ٱلْأَرْضَ بَارِزَةًۭ وَحَشَرْنَٰهُمْ فَلَمْ نُغَادِرْ مِنْهُمْ أَحَدًۭا",
+     "transliteration": "Wa yawma nusaiyirul jibaala wa taral arda baariza tanw wa hasharnaahum falam nughaadir minhum ahadaa",
+     "translation": "And [warn of] the Day when We will remove the mountains and you will see the earth prominent, and We will gather them and not leave behind from them anyone.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2187.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 48,
+     "arabicText": "وَعُرِضُوا۟ عَلَىٰ رَبِّكَ صَفًّۭا لَّقَدْ جِئْتُمُونَا كَمَا خَلَقْنَٰكُمْ أَوَّلَ مَرَّةٍۭ ۚ بَلْ زَعَمْتُمْ أَلَّن نَّجْعَلَ لَكُم مَّوْعِدًۭا",
+     "transliteration": "Wa 'uridoo 'alaa Rabbika saffaa, laqad ji'tumoonaa kamaa khalaqnaakum awala marrah; bal za'amtum allannaj'ala lakum maw'idaa",
+     "translation": "And they will be presented before your Lord in rows, [and He will say], \"You have certainly come to Us just as We created you the first time. But you claimed that We would never make for you an appointment.\"",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2188.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 49,
+     "arabicText": "وَوُضِعَ ٱلْكِتَٰبُ فَتَرَى ٱلْمُجْرِمِينَ مُشْفِقِينَ مِمَّا فِيهِ وَيَقُولُونَ يَٰوَيْلَتَنَا مَالِ هَٰذَا ٱلْكِتَٰبِ لَا يُغَادِرُ صَغِيرَةًۭ وَلَا كَبِيرَةً إِلَّآ أَحْصَىٰهَا ۚ وَوَجَدُوا۟ مَا عَمِلُوا۟ حَاضِرًۭا ۗ وَلَا يَظْلِمُ رَبُّكَ أَحَدًۭا",
+     "transliteration": "Wa wudi'al kitaabu fataral mujrimeena mushfiqeena mimmaa feehi wa yaqooloona yaa wailatanaa maa lihaazal kitaabi laa yughaadiru saghee ratanw wa laa kabeeratan illaaa ahsaahaa; wa wajadoo maa 'amiloo haadiraa; wa laa yazlimu Rabbuka ahadaa",
+     "translation": "And the record [of deeds] will be placed [open], and you will see the criminals fearful of that within it, and they will say, \"Oh, woe to us! What is this book that leaves nothing small or great except that it has enumerated it?\" And they will find what they did present [before them]. And your Lord does injustice to no one.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2189.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 50,
+     "arabicText": "وَإِذْ قُلْنَا لِلْمَلَٰٓئِكَةِ ٱسْجُدُوا۟ لِءَادَمَ فَسَجَدُوٓا۟ إِلَّآ إِبْلِيسَ كَانَ مِنَ ٱلْجِنِّ فَفَسَقَ عَنْ أَمْرِ رَبِّهِۦٓ ۗ أَفَتَتَّخِذُونَهُۥ وَذُرِّيَّتَهُۥٓ أَوْلِيَآءَ مِن دُونِى وَهُمْ لَكُمْ عَدُوٌّۢ ۚ بِئْسَ لِلظَّٰلِمِينَ بَدَلًۭا",
+     "transliteration": "Wa iz qulnaa lilma laaa'ikatis judoo li Aadama fasajadooo illaaa Ibleesa kaana minal jinni fafasaqa 'an amri Rabbih; afatattakhizoonahoo wa zurriyatahooo awliyaaa'a min doonee wa hum lakum 'aduww; bi'sa lizzaalimeena badalaa",
+     "translation": "And [mention] when We said to the angels, \"Prostrate to Adam,\" and they prostrated, except for Iblees. He was of the jinn and departed from the command of his Lord. Then will you take him and his descendants as allies other than Me while they are enemies to you? Wretched it is for the wrongdoers as an exchange.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2190.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 51,
+     "arabicText": "۞ مَّآ أَشْهَدتُّهُمْ خَلْقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَلَا خَلْقَ أَنفُسِهِمْ وَمَا كُنتُ مُتَّخِذَ ٱلْمُضِلِّينَ عَضُدًۭا",
+     "transliteration": "Maaa ash hattuhum khalqas samaawaati wal ardi wa laa khalqa anfusihim wa maa kuntu muttakizal mudilleena 'adudaa",
+     "translation": "I did not make them witness to the creation of the heavens and the earth or to the creation of themselves, and I would not have taken the misguiders as assistants.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2191.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 52,
+     "arabicText": "وَيَوْمَ يَقُولُ نَادُوا۟ شُرَكَآءِىَ ٱلَّذِينَ زَعَمْتُمْ فَدَعَوْهُمْ فَلَمْ يَسْتَجِيبُوا۟ لَهُمْ وَجَعَلْنَا بَيْنَهُم مَّوْبِقًۭا",
+     "transliteration": "Wa Yawma yaqoolu naadoo shurakaaa'i yal lazeena za'amtum fada'awhum falam yastajeeboo lahum wa ja'alnaa bainahum maw biqaa",
+     "translation": "And [warn of] the Day when He will say, \"Call 'My partners' whom you claimed,\" and they will invoke them, but they will not respond to them. And We will put between them [a valley of] destruction.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2192.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 53,
+     "arabicText": "وَرَءَا ٱلْمُجْرِمُونَ ٱلنَّارَ فَظَنُّوٓا۟ أَنَّهُم مُّوَاقِعُوهَا وَلَمْ يَجِدُوا۟ عَنْهَا مَصْرِفًۭا",
+     "transliteration": "Wa ra al mujrimoonan Naara fazannooo annahum muwaaqi'oohaa wa lam yajidoo 'anhaa masrifaa",
+     "translation": "And the criminals will see the Fire and will be certain that they are to fall therein. And they will not find from it a way elsewhere.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2193.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 54,
+     "arabicText": "وَلَقَدْ صَرَّفْنَا فِى هَٰذَا ٱلْقُرْءَانِ لِلنَّاسِ مِن كُلِّ مَثَلٍۢ ۚ وَكَانَ ٱلْإِنسَٰنُ أَكْثَرَ شَىْءٍۢ جَدَلًۭا",
+     "transliteration": "Wa laqad sarrafnaa fee haazal quraani linnaasi mn kulli masal; wa kaanal insaanu aksara shai'in jadalaa",
+     "translation": "And We have certainly diversified in this Qur'an for the people from every [kind of] example; but man has ever been, most of anything, [prone to] dispute.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2194.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 55,
+     "arabicText": "وَمَا مَنَعَ ٱلنَّاسَ أَن يُؤْمِنُوٓا۟ إِذْ جَآءَهُمُ ٱلْهُدَىٰ وَيَسْتَغْفِرُوا۟ رَبَّهُمْ إِلَّآ أَن تَأْتِيَهُمْ سُنَّةُ ٱلْأَوَّلِينَ أَوْ يَأْتِيَهُمُ ٱلْعَذَابُ قُبُلًۭا",
+     "transliteration": "Wa maa mana'an naasa any yu'minooo iz jaaa'ahumul hudaa wa yastaghfiroo Rabbahum illaaa an taatiyahum sunnatul awwaleena aw yaatiyahumul 'azaabu qubulaa",
+     "translation": "And nothing has prevented the people from believing when guidance came to them and from asking forgiveness of their Lord except that there [must] befall them the [accustomed] precedent of the former peoples or that the punishment should come [directly] before them.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2195.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 56,
+     "arabicText": "وَمَا نُرْسِلُ ٱلْمُرْسَلِينَ إِلَّا مُبَشِّرِينَ وَمُنذِرِينَ ۚ وَيُجَٰدِلُ ٱلَّذِينَ كَفَرُوا۟ بِٱلْبَٰطِلِ لِيُدْحِضُوا۟ بِهِ ٱلْحَقَّ ۖ وَٱتَّخَذُوٓا۟ ءَايَٰتِى وَمَآ أُنذِرُوا۟ هُزُوًۭا",
+     "transliteration": "Wa maa nursilul mursaleena illaa mubashshireena wa munzireen; wa yujaadilul lazeena kafaroo bilbaatili liyudhidoo bihil haqqa wattakhazooo Aayaatee wa maaa unziroo huzuwaa",
+     "translation": "And We send not the messengers except as bringers of good tidings and warners. And those who disbelieve dispute by [using] falsehood to [attempt to] invalidate thereby the truth and have taken My verses, and that of which they are warned, in ridicule.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2196.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 57,
+     "arabicText": "وَمَنْ أَظْلَمُ مِمَّن ذُكِّرَ بِـَٔايَٰتِ رَبِّهِۦ فَأَعْرَضَ عَنْهَا وَنَسِىَ مَا قَدَّمَتْ يَدَاهُ ۚ إِنَّا جَعَلْنَا عَلَىٰ قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِىٓ ءَاذَانِهِمْ وَقْرًۭا ۖ وَإِن تَدْعُهُمْ إِلَى ٱلْهُدَىٰ فَلَن يَهْتَدُوٓا۟ إِذًا أَبَدًۭا",
+     "transliteration": "Wa man azlamu mimman zukkira bi ayaati Rabbihee fa-a'rada 'anhaa wa nasiya maa qaddamat yadaah; innaa ja'alnaa 'alaa quloobihim akinnatan any yafqahoohu wa feee aazaanihim waqraa; wa in tad'uhum ilal hudaa falany yahtadooo izan abadaa",
+     "translation": "And who is more unjust than one who is reminded of the verses of his Lord but turns away from them and forgets what his hands have put forth? Indeed, We have placed over their hearts coverings, lest they understand it, and in their ears deafness. And if you invite them to guidance - they will never be guided, then - ever.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2197.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 58,
+     "arabicText": "وَرَبُّكَ ٱلْغَفُورُ ذُو ٱلرَّحْمَةِ ۖ لَوْ يُؤَاخِذُهُم بِمَا كَسَبُوا۟ لَعَجَّلَ لَهُمُ ٱلْعَذَابَ ۚ بَل لَّهُم مَّوْعِدٌۭ لَّن يَجِدُوا۟ مِن دُونِهِۦ مَوْئِلًۭا",
+     "transliteration": "Wa Rabbukal Ghafooru zur rahmati law yu'aakhi zuhum bimaa kasaboo la'ajala lahumul 'azaab; bal lahum maw'idul lany yajidoo min doonihee maw'ilaa",
+     "translation": "And your Lord is the Forgiving, full of mercy. If He were to impose blame upon them for what they earned, He would have hastened for them the punishment. Rather, for them is an appointment from which they will never find an escape.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2198.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 59,
+     "arabicText": "وَتِلْكَ ٱلْقُرَىٰٓ أَهْلَكْنَٰهُمْ لَمَّا ظَلَمُوا۟ وَجَعَلْنَا لِمَهْلِكِهِم مَّوْعِدًۭا",
+     "transliteration": "Wa tkal quraaa ahlak nahum lammaa zulamoo wa ja'alnaa limahlikihim maw'idaa",
+     "translation": "And those cities - We destroyed them when they wronged, and We made for their destruction an appointed time.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2199.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 60,
+     "arabicText": "وَإِذْ قَالَ مُوسَىٰ لِفَتَىٰهُ لَآ أَبْرَحُ حَتَّىٰٓ أَبْلُغَ مَجْمَعَ ٱلْبَحْرَيْنِ أَوْ أَمْضِىَ حُقُبًۭا",
+     "transliteration": "Wa iz qaalaa Moosaa lifataahu laaa abrahu hattaaa ablugha majma'al bahrayni aw amdiya huqubaa",
+     "translation": "And [mention] when Moses said to his servant, \"I will not cease [traveling] until I reach the junction of the two seas or continue for a long period.\"",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2200.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 61,
+     "arabicText": "فَلَمَّا بَلَغَا مَجْمَعَ بَيْنِهِمَا نَسِيَا حُوتَهُمَا فَٱتَّخَذَ سَبِيلَهُۥ فِى ٱلْبَحْرِ سَرَبًۭا",
+     "transliteration": "Falammaa balaghaa majma'a bainihimaa nasiyaa hootahumaa fattakhaza sabeelahoo fil bahri sarabaa",
+     "translation": "But when they reached the junction between them, they forgot their fish, and it took its course into the sea, slipping away.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2201.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 62,
+     "arabicText": "فَلَمَّا جَاوَزَا قَالَ لِفَتَىٰهُ ءَاتِنَا غَدَآءَنَا لَقَدْ لَقِينَا مِن سَفَرِنَا هَٰذَا نَصَبًۭا",
+     "transliteration": "Falammaa jaawazaa qaala lifataahu aatinaa ghadaaa'anaa laqad laqeena min safarinaa haazaa nasabaa",
+     "translation": "So when they had passed beyond it, [Moses] said to his boy, \"Bring us our morning meal. We have certainly suffered in this, our journey, [much] fatigue.\"",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2202.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 63,
+     "arabicText": "قَالَ أَرَءَيْتَ إِذْ أَوَيْنَآ إِلَى ٱلصَّخْرَةِ فَإِنِّى نَسِيتُ ٱلْحُوتَ وَمَآ أَنسَىٰنِيهُ إِلَّا ٱلشَّيْطَٰنُ أَنْ أَذْكُرَهُۥ ۚ وَٱتَّخَذَ سَبِيلَهُۥ فِى ٱلْبَحْرِ عَجَبًۭا",
+     "transliteration": "Qaala ara'ayta iz awainaaa ilas sakhrati fa innee naseetul hoota wa maaa ansaaneehu illash Shaitaanu an azkurah; wattakhaza sabeelahoo fil bahri'ajabaa",
+     "translation": "He said, \"Did you see when we retired to the rock? Indeed, I forgot [there] the fish. And none made me forget it except Satan - that I should mention it. And it took its course into the sea amazingly\".",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2203.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 64,
+     "arabicText": "قَالَ ذَٰلِكَ مَا كُنَّا نَبْغِ ۚ فَٱرْتَدَّا عَلَىٰٓ ءَاثَارِهِمَا قَصَصًۭا",
+     "transliteration": "Qaala zaalika maa kunnaa nabgh; fartaddaa 'alaa aasaari him maa qasasaa",
+     "translation": "[Moses] said, \"That is what we were seeking.\" So they returned, following their footprints.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2204.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 65,
+     "arabicText": "فَوَجَدَا عَبْدًۭا مِّنْ عِبَادِنَآ ءَاتَيْنَٰهُ رَحْمَةًۭ مِّنْ عِندِنَا وَعَلَّمْنَٰهُ مِن لَّدُنَّا عِلْمًۭا",
+     "transliteration": "Fa wajadaa 'abdam min 'ibaadinaaa aatainaahu Rahmatam min 'indinaa wa 'allamnaahu mil ladunnaa 'ilmaa",
+     "translation": "And they found a servant from among Our servants to whom we had given mercy from us and had taught him from Us a [certain] knowledge.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2205.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 66,
+     "arabicText": "قَالَ لَهُۥ مُوسَىٰ هَلْ أَتَّبِعُكَ عَلَىٰٓ أَن تُعَلِّمَنِ مِمَّا عُلِّمْتَ رُشْدًۭا",
+     "transliteration": "Qaala lahoo Moosaa hal attabi'uka 'alaaa an tu'allimani mimmaa 'ullimta rushdaa",
+     "translation": "Moses said to him, \"May I follow you on [the condition] that you teach me from what you have been taught of sound judgement?\"",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2206.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 67,
+     "arabicText": "قَالَ إِنَّكَ لَن تَسْتَطِيعَ مَعِىَ صَبْرًۭا",
+     "transliteration": "Qaalaa innaka lan tastatee'a ma'iya sabraa",
+     "translation": "He said, \"Indeed, with me you will never be able to have patience.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2207.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 68,
+     "arabicText": "وَكَيْفَ تَصْبِرُ عَلَىٰ مَا لَمْ تُحِطْ بِهِۦ خُبْرًۭا",
+     "transliteration": "Wa kaifa tasbiru 'alaa maa lam tuhit bihee khubraa",
+     "translation": "And how can you have patience for what you do not encompass in knowledge?\"",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2208.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 69,
+     "arabicText": "قَالَ سَتَجِدُنِىٓ إِن شَآءَ ٱللَّهُ صَابِرًۭا وَلَآ أَعْصِى لَكَ أَمْرًۭا",
+     "transliteration": "Qaala satajiduneee in shaa 'al laahu saabiranw wa laaa a'see laka amraa",
+     "translation": "[Moses] said, \"You will find me, if Allah wills, patient, and I will not disobey you in [any] order.\"",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2209.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 70,
+     "arabicText": "قَالَ فَإِنِ ٱتَّبَعْتَنِى فَلَا تَسْـَٔلْنِى عَن شَىْءٍ حَتَّىٰٓ أُحْدِثَ لَكَ مِنْهُ ذِكْرًۭا",
+     "transliteration": "Qaala fa init taba'tanee falaa tas'alnee 'an shai'in hattaaa uhdisa laka minhu zikraa",
+     "translation": "He said, \"Then if you follow me, do not ask me about anything until I make to you about it mention.\"",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2210.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 71,
+     "arabicText": "فَٱنطَلَقَا حَتَّىٰٓ إِذَا رَكِبَا فِى ٱلسَّفِينَةِ خَرَقَهَا ۖ قَالَ أَخَرَقْتَهَا لِتُغْرِقَ أَهْلَهَا لَقَدْ جِئْتَ شَيْـًٔا إِمْرًۭا",
+     "transliteration": "Fantalaqaa hattaaa izaa rakibaa fis safeenati kharaqahaa qaala akharaqtahaa litughriqa ahlahaa laqad ji'ta shai'an imraa",
+     "translation": "So they set out, until when they had embarked on the ship, al-Khidh r tore it open. [Moses] said, \"Have you torn it open to drown its people? You have certainly done a grave thing.\"",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2211.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 72,
+     "arabicText": "قَالَ أَلَمْ أَقُلْ إِنَّكَ لَن تَسْتَطِيعَ مَعِىَ صَبْرًۭا",
+     "transliteration": "Qaala alam aqul innaka lan tastatee'a ma'iya sabraa",
+     "translation": "[Al-Khidh r] said, \"Did I not say that with me you would never be able to have patience?\"",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2212.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 73,
+     "arabicText": "قَالَ لَا تُؤَاخِذْنِى بِمَا نَسِيتُ وَلَا تُرْهِقْنِى مِنْ أَمْرِى عُسْرًۭا",
+     "transliteration": "Qaala laa tu'aakhiznee bimaa naseetu wa laa turhiqnee min amree 'usraa",
+     "translation": "[Moses] said, \"Do not blame me for what I forgot and do not cover me in my matter with difficulty.\"",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2213.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 74,
+     "arabicText": "فَٱنطَلَقَا حَتَّىٰٓ إِذَا لَقِيَا غُلَٰمًۭا فَقَتَلَهُۥ قَالَ أَقَتَلْتَ نَفْسًۭا زَكِيَّةًۢ بِغَيْرِ نَفْسٍۢ لَّقَدْ جِئْتَ شَيْـًۭٔا نُّكْرًۭا",
+     "transliteration": "Fantalaqaa hattaa izaa laqiyaa ghulaaman faqatalahoo qaala aqatalta nafsan zakiy yatam bighairi nafs; laqad ji'ta shai'an nukraa",
+     "translation": "So they set out, until when they met a boy, al-Khidh r killed him. [Moses] said, \"Have you killed a pure soul for other than [having killed] a soul? You have certainly done a deplorable thing.\"",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2214.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 75,
+     "arabicText": "۞ قَالَ أَلَمْ أَقُل لَّكَ إِنَّكَ لَن تَسْتَطِيعَ مَعِىَ صَبْرًۭا",
+     "transliteration": "Qaala alam aqul laka innaka lan tastatee'a ma'iya sabraa",
+     "translation": "[Al-Khidh r] said, \"Did I not tell you that with me you would never be able to have patience?\"",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2215.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 76,
+     "arabicText": "قَالَ إِن سَأَلْتُكَ عَن شَىْءٍۭ بَعْدَهَا فَلَا تُصَٰحِبْنِى ۖ قَدْ بَلَغْتَ مِن لَّدُنِّى عُذْرًۭا",
+     "transliteration": "Qaala in sa altuka 'an shai'im ba'dahaa falaa tusaahibnee qad balaghta mil ladunnee 'uzraa",
+     "translation": "[Moses] said, \"If I should ask you about anything after this, then do not keep me as a companion. You have obtained from me an excuse.\"",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2216.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 77,
+     "arabicText": "فَٱنطَلَقَا حَتَّىٰٓ إِذَآ أَتَيَآ أَهْلَ قَرْيَةٍ ٱسْتَطْعَمَآ أَهْلَهَا فَأَبَوْا۟ أَن يُضَيِّفُوهُمَا فَوَجَدَا فِيهَا جِدَارًۭا يُرِيدُ أَن يَنقَضَّ فَأَقَامَهُۥ ۖ قَالَ لَوْ شِئْتَ لَتَّخَذْتَ عَلَيْهِ أَجْرًۭا",
+     "transliteration": "Fantalaqaa hattaaa izaaa atayaaa ahla qaryatinis tat'amaaa ahlahaa fa abaw any yudaiyifoohumaa fawajadaa feehaa jidaarany yureedu any yanqadda fa aqaamah; qaala law shi'ta lattakhazta 'alaihi ajraa",
+     "translation": "So they set out, until when they came to the people of a town, they asked its people for food, but they refused to offer them hospitality. And they found therein a wall about to collapse, so al-Khidh r restored it. [Moses] said, \"If you wished, you could have taken for it a payment.\"",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2217.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 78,
+     "arabicText": "قَالَ هَٰذَا فِرَاقُ بَيْنِى وَبَيْنِكَ ۚ سَأُنَبِّئُكَ بِتَأْوِيلِ مَا لَمْ تَسْتَطِع عَّلَيْهِ صَبْرًا",
+     "transliteration": "Qaala haazaa firaaqu bainee wa bainik; sa unabi 'uka bitaaweeli maa lam tastati' 'alaihi sabraa",
+     "translation": "[Al-Khidh r] said, \"This is parting between me and you. I will inform you of the interpretation of that about which you could not have patience.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2218.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 79,
+     "arabicText": "أَمَّا ٱلسَّفِينَةُ فَكَانَتْ لِمَسَٰكِينَ يَعْمَلُونَ فِى ٱلْبَحْرِ فَأَرَدتُّ أَنْ أَعِيبَهَا وَكَانَ وَرَآءَهُم مَّلِكٌۭ يَأْخُذُ كُلَّ سَفِينَةٍ غَصْبًۭا",
+     "transliteration": "Ammas safeenatu fakaanat limasaakeena ya'maloona fil bahri fa arattu an a'eebahaa wa kaana waraaa' ahum malikuny yaakhuzu kulla safeenatin ghasbaa",
+     "translation": "As for the ship, it belonged to poor people working at sea. So I intended to cause defect in it as there was after them a king who seized every [good] ship by force.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2219.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 80,
+     "arabicText": "وَأَمَّا ٱلْغُلَٰمُ فَكَانَ أَبَوَاهُ مُؤْمِنَيْنِ فَخَشِينَآ أَن يُرْهِقَهُمَا طُغْيَٰنًۭا وَكُفْرًۭا",
+     "transliteration": "Wa aammal ghulaamu fakaana abawaahu mu'minaini fakhasheenaaa any yurhiqa humaa tughyaananw wa kufraa",
+     "translation": "And as for the boy, his parents were believers, and we feared that he would overburden them by transgression and disbelief.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2220.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 81,
+     "arabicText": "فَأَرَدْنَآ أَن يُبْدِلَهُمَا رَبُّهُمَا خَيْرًۭا مِّنْهُ زَكَوٰةًۭ وَأَقْرَبَ رُحْمًۭا",
+     "transliteration": "Faradnaa any yubdila humaa Rabbuhumaa khairam minhu zakaatanw wa aqraba ruhmaa",
+     "translation": "So we intended that their Lord should substitute for them one better than him in purity and nearer to mercy.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2221.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 82,
+     "arabicText": "وَأَمَّا ٱلْجِدَارُ فَكَانَ لِغُلَٰمَيْنِ يَتِيمَيْنِ فِى ٱلْمَدِينَةِ وَكَانَ تَحْتَهُۥ كَنزٌۭ لَّهُمَا وَكَانَ أَبُوهُمَا صَٰلِحًۭا فَأَرَادَ رَبُّكَ أَن يَبْلُغَآ أَشُدَّهُمَا وَيَسْتَخْرِجَا كَنزَهُمَا رَحْمَةًۭ مِّن رَّبِّكَ ۚ وَمَا فَعَلْتُهُۥ عَنْ أَمْرِى ۚ ذَٰلِكَ تَأْوِيلُ مَا لَمْ تَسْطِع عَّلَيْهِ صَبْرًۭا",
+     "transliteration": "Wa ammal jidaaru fakaana lighulaamaini yateemaini fil madeenati wa kaana tahtahoo kanzul lahumaa wa kaana aboohumaa saalihan fa araada Rabbuka any yablughaaa ashuddahumaa wa yastakhrijaa kanzahumaa rahmatam mir Rabbik; wa maa fa'altuhoo 'an amree; zaalika taaweelu maa lam tasti' 'alaihi sabra",
+     "translation": "And as for the wall, it belonged to two orphan boys in the city, and there was beneath it a treasure for them, and their father had been righteous. So your Lord intended that they reach maturity and extract their treasure, as a mercy from your Lord. And I did it not of my own accord. That is the interpretation of that about which you could not have patience.\"",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2222.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 83,
+     "arabicText": "وَيَسْـَٔلُونَكَ عَن ذِى ٱلْقَرْنَيْنِ ۖ قُلْ سَأَتْلُوا۟ عَلَيْكُم مِّنْهُ ذِكْرًا",
+     "transliteration": "Wa yas'aloonaka 'an Zil Qarnaini qul sa atloo 'alaikum minhu zikraa",
+     "translation": "And they ask you, [O Muhammad], about Dhul-Qarnayn. Say, \"I will recite to you about him a report.\"",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2223.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 84,
+     "arabicText": "إِنَّا مَكَّنَّا لَهُۥ فِى ٱلْأَرْضِ وَءَاتَيْنَٰهُ مِن كُلِّ شَىْءٍۢ سَبَبًۭا",
+     "transliteration": "Innaa makkannaa lahoo fil ardi wa aatainaahu min kulli shai'in sababaa",
+     "translation": "Indeed We established him upon the earth, and We gave him to everything a way.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2224.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 85,
+     "arabicText": "فَأَتْبَعَ سَبَبًا",
+     "transliteration": "Fa atba'a sababaa",
+     "translation": "So he followed a way",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2225.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 86,
+     "arabicText": "حَتَّىٰٓ إِذَا بَلَغَ مَغْرِبَ ٱلشَّمْسِ وَجَدَهَا تَغْرُبُ فِى عَيْنٍ حَمِئَةٍۢ وَوَجَدَ عِندَهَا قَوْمًۭا ۗ قُلْنَا يَٰذَا ٱلْقَرْنَيْنِ إِمَّآ أَن تُعَذِّبَ وَإِمَّآ أَن تَتَّخِذَ فِيهِمْ حُسْنًۭا",
+     "transliteration": "Hattaaa izaa balagha maghribash shamsi wajadahaaa taghrubu fee 'aynin hami'a tinw wa wajada 'indahaa qawmaa; qulnaa yaa Zal Qarnaini immaaa an tu'az ziba wa immaaa an tattakhiza feehim husnaa",
+     "translation": "Until, when he reached the setting of the sun, he found it [as if] setting in a spring of dark mud, and he found near it a people. Allah said, \"O Dhul-Qarnayn, either you punish [them] or else adopt among them [a way of] goodness.\"",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2226.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 87,
+     "arabicText": "قَالَ أَمَّا مَن ظَلَمَ فَسَوْفَ نُعَذِّبُهُۥ ثُمَّ يُرَدُّ إِلَىٰ رَبِّهِۦ فَيُعَذِّبُهُۥ عَذَابًۭا نُّكْرًۭا",
+     "transliteration": "Qaala amaa man zalama fasawfa nu'azzibuhoo summa yuraddu ilaa Rabbihee fa yu 'azzibuhoo azaaban nukraa",
+     "translation": "He said, \"As for one who wrongs, we will punish him. Then he will be returned to his Lord, and He will punish him with a terrible punishment.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2227.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 88,
+     "arabicText": "وَأَمَّا مَنْ ءَامَنَ وَعَمِلَ صَٰلِحًۭا فَلَهُۥ جَزَآءً ٱلْحُسْنَىٰ ۖ وَسَنَقُولُ لَهُۥ مِنْ أَمْرِنَا يُسْرًۭا",
+     "transliteration": "Wa ammaa man aamana wa 'amila saalihan falahoo jazaaa'anil husnaa wa sanaqoolu lahoo min amrinaa yusraa",
+     "translation": "But as for one who believes and does righteousness, he will have a reward of Paradise, and we will speak to him from our command with ease.\"",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2228.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 89,
+     "arabicText": "ثُمَّ أَتْبَعَ سَبَبًا",
+     "transliteration": "Summa atba'a sababaa",
+     "translation": "Then he followed a way",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2229.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 90,
+     "arabicText": "حَتَّىٰٓ إِذَا بَلَغَ مَطْلِعَ ٱلشَّمْسِ وَجَدَهَا تَطْلُعُ عَلَىٰ قَوْمٍۢ لَّمْ نَجْعَل لَّهُم مِّن دُونِهَا سِتْرًۭا",
+     "transliteration": "Hattaaa izaa balagha matli'ash shamsi wajdahaa tatlu'u alaa qawmil lam naj'al lahum min doonihaa sitraa",
+     "translation": "Until, when he came to the rising of the sun, he found it rising on a people for whom We had not made against it any shield.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2230.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 91,
+     "arabicText": "كَذَٰلِكَ وَقَدْ أَحَطْنَا بِمَا لَدَيْهِ خُبْرًۭا",
+     "transliteration": "Kazaalika wa qad ahatnaa bimaa ladaihi khubraa",
+     "translation": "Thus. And We had encompassed [all] that he had in knowledge.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2231.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 92,
+     "arabicText": "ثُمَّ أَتْبَعَ سَبَبًا",
+     "transliteration": "Summa atba'a sababaa",
+     "translation": "Then he followed a way",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2232.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 93,
+     "arabicText": "حَتَّىٰٓ إِذَا بَلَغَ بَيْنَ ٱلسَّدَّيْنِ وَجَدَ مِن دُونِهِمَا قَوْمًۭا لَّا يَكَادُونَ يَفْقَهُونَ قَوْلًۭا",
+     "transliteration": "Hattaaa izaa balagha bainas saddaini wajada min doonihimaa qawmal laa yakaa doona yafqahoona qawlaa",
+     "translation": "Until, when he reached [a pass] between two mountains, he found beside them a people who could hardly understand [his] speech.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2233.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 94,
+     "arabicText": "قَالُوا۟ يَٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+     "transliteration": "Qaaloo yaa Zal qarnaini inna Yaajooja wa Maajooja mufsidoona fil ardi fahal naj'alu laka kharjan 'alaaa an taj'ala bainanaa wa bainahum saddas",
+     "translation": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\"",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2234.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 95,
+     "arabicText": "قَالَ مَا مَكَّنِّى فِيهِ رَبِّى خَيْرٌۭ فَأَعِينُونِى بِقُوَّةٍ أَجْعَلْ بَيْنَكُمْ وَبَيْنَهُمْ رَدْمًا",
+     "transliteration": "Qaala maa makkannee feehi Rabbee khairun fa-a'eenoonee biquwwatin aj'al bainakum wa bainahum radmaa",
+     "translation": "He said, \"That in which my Lord has established me is better [than what you offer], but assist me with strength; I will make between you and them a dam.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2235.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 96,
+     "arabicText": "ءَاتُونِى زُبَرَ ٱلْحَدِيدِ ۖ حَتَّىٰٓ إِذَا سَاوَىٰ بَيْنَ ٱلصَّدَفَيْنِ قَالَ ٱنفُخُوا۟ ۖ حَتَّىٰٓ إِذَا جَعَلَهُۥ نَارًۭا قَالَ ءَاتُونِىٓ أُفْرِغْ عَلَيْهِ قِطْرًۭا",
+     "transliteration": "Aatoonee zubaral hadeed, hattaaa izaa saawaa bainas sadafaini qaalan fukhoo hattaaa izaa ja'alahoo naaran qaala aatooneee ufrigh 'alaihi qitraa",
+     "translation": "Bring me sheets of iron\" - until, when he had leveled [them] between the two mountain walls, he said, \"Blow [with bellows],\" until when he had made it [like] fire, he said, \"Bring me, that I may pour over it molten copper.\"",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2236.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 97,
+     "arabicText": "فَمَا ٱسْطَٰعُوٓا۟ أَن يَظْهَرُوهُ وَمَا ٱسْتَطَٰعُوا۟ لَهُۥ نَقْبًۭا",
+     "transliteration": "Famas taa'ooo any yazharoohu wa mastataa'oo lahoo naqbaa",
+     "translation": "So Gog and Magog were unable to pass over it, nor were they able [to effect] in it any penetration.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2237.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 98,
+     "arabicText": "قَالَ هَٰذَا رَحْمَةٌۭ مِّن رَّبِّى ۖ فَإِذَا جَآءَ وَعْدُ رَبِّى جَعَلَهُۥ دَكَّآءَ ۖ وَكَانَ وَعْدُ رَبِّى حَقًّۭا",
+     "transliteration": "Qaala haaza rahmatummir Rabbee fa izaa jaaa'a wa'du Rabbee ja'alahoo dakkaaa'a; wa kaana; wa du Rabbee haqqaa",
+     "translation": "[Dhul-Qarnayn] said, \"This is a mercy from my Lord; but when the promise of my Lord comes, He will make it level, and ever is the promise of my Lord true.\"",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2238.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 99,
+     "arabicText": "۞ وَتَرَكْنَا بَعْضَهُمْ يَوْمَئِذٍۢ يَمُوجُ فِى بَعْضٍۢ ۖ وَنُفِخَ فِى ٱلصُّورِ فَجَمَعْنَٰهُمْ جَمْعًۭا",
+     "transliteration": "Wa taraknaa ba'dahum Yawma'iziny yamooju fee ba'dinw wa nufikha fis Soori fajama'naahum jam'aa",
+     "translation": "And We will leave them that day surging over each other, and [then] the Horn will be blown, and We will assemble them in [one] assembly.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2239.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 100,
+     "arabicText": "وَعَرَضْنَا جَهَنَّمَ يَوْمَئِذٍۢ لِّلْكَٰفِرِينَ عَرْضًا",
+     "transliteration": "Wa 'aradnaa jahannama Yawma'izil lilkaafireena 'ardaa",
+     "translation": "And We will present Hell that Day to the Disbelievers, on display -",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2240.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 101,
+     "arabicText": "ٱلَّذِينَ كَانَتْ أَعْيُنُهُمْ فِى غِطَآءٍ عَن ذِكْرِى وَكَانُوا۟ لَا يَسْتَطِيعُونَ سَمْعًا",
+     "transliteration": "Allazeena kaanat a'yunuhum fee ghitaaa'in 'an zikree wa kaanoo la yastatee'oona sam'aa",
+     "translation": "Those whose eyes had been within a cover [removed] from My remembrance, and they were not able to hear.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2241.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 102,
+     "arabicText": "أَفَحَسِبَ ٱلَّذِينَ كَفَرُوٓا۟ أَن يَتَّخِذُوا۟ عِبَادِى مِن دُونِىٓ أَوْلِيَآءَ ۚ إِنَّآ أَعْتَدْنَا جَهَنَّمَ لِلْكَٰفِرِينَ نُزُلًۭا",
+     "transliteration": "Afahasibal lazeena kafarooo any yattakhizoo 'ibaadee min dooneee awliyaaa'; innaaa a'tadnaa jahannama lilkaafi reena nuzulaa",
+     "translation": "Then do those who disbelieve think that they can take My servants instead of Me as allies? Indeed, We have prepared Hell for the disbelievers as a lodging.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2242.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 103,
+     "arabicText": "قُلْ هَلْ نُنَبِّئُكُم بِٱلْأَخْسَرِينَ أَعْمَٰلًا",
+     "transliteration": "Qul hal nunabbi'ukum bilakhsareena a'maalaa",
+     "translation": "Say, [O Muhammad], \"Shall we [believers] inform you of the greatest losers as to [their] deeds?",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2243.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 104,
+     "arabicText": "ٱلَّذِينَ ضَلَّ سَعْيُهُمْ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَهُمْ يَحْسَبُونَ أَنَّهُمْ يُحْسِنُونَ صُنْعًا",
+     "transliteration": "Allazeena dalla sa'yuhum fil hayaatid dunyaa wa hum yahsaboona annahum yuhsinoona sun'aa",
+     "translation": "[They are] those whose effort is lost in worldly life, while they think that they are doing well in work.\"",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2244.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 105,
+     "arabicText": "أُو۟لَٰٓئِكَ ٱلَّذِينَ كَفَرُوا۟ بِـَٔايَٰتِ رَبِّهِمْ وَلِقَآئِهِۦ فَحَبِطَتْ أَعْمَٰلُهُمْ فَلَا نُقِيمُ لَهُمْ يَوْمَ ٱلْقِيَٰمَةِ وَزْنًۭا",
+     "transliteration": "Ulaaa'ikal lazeena kafaroo bi aayaati Rabbihim wa liqaaa'ihee fahabitat a'maaluhum falaa nuqeemu lahum Yawmal Qiyaamati waznaa",
+     "translation": "Those are the ones who disbelieve in the verses of their Lord and in [their] meeting Him, so their deeds have become worthless; and We will not assign to them on the Day of Resurrection any importance.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2245.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 106,
+     "arabicText": "ذَٰلِكَ جَزَآؤُهُمْ جَهَنَّمُ بِمَا كَفَرُوا۟ وَٱتَّخَذُوٓا۟ ءَايَٰتِى وَرُسُلِى هُزُوًا",
+     "transliteration": "Zaalika jazaaa'uhum jahannamu bimaa kafaroo wattakhazooo Aayaatee wa Rusulee huzuwaa",
+     "translation": "That is their recompense - Hell - for what they denied and [because] they took My signs and My messengers in ridicule.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2246.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 107,
+     "arabicText": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ كَانَتْ لَهُمْ جَنَّٰتُ ٱلْفِرْدَوْسِ نُزُلًا",
+     "transliteration": "Innal lazeena aamanoo wa 'amilus saalihaati kaanat lahum Jannaatul Firdawsi nuzulaa",
+     "translation": "Indeed, those who have believed and done righteous deeds - they will have the Gardens of Paradise as a lodging,",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2247.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 108,
+     "arabicText": "خَٰلِدِينَ فِيهَا لَا يَبْغُونَ عَنْهَا حِوَلًۭا",
+     "transliteration": "Khaalideena feeha la yabghoona 'anhaa hiwalaa",
+     "translation": "Wherein they abide eternally. They will not desire from it any transfer.",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2248.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 109,
+     "arabicText": "قُل لَّوْ كَانَ ٱلْبَحْرُ مِدَادًۭا لِّكَلِمَٰتِ رَبِّى لَنَفِدَ ٱلْبَحْرُ قَبْلَ أَن تَنفَدَ كَلِمَٰتُ رَبِّى وَلَوْ جِئْنَا بِمِثْلِهِۦ مَدَدًۭا",
+     "transliteration": "Qul law kaanal bahru midaadal lik Kalimaati Rabbee lanafidal bahru qabla an tanfada Kalimaatu Rabbee wa law ji'naa bimislihee madadaa",
+     "translation": "Say, \"If the sea were ink for [writing] the words of my Lord, the sea would be exhausted before the words of my Lord were exhausted, even if We brought the like of it as a supplement.\"",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2249.mp3"
+    },
+    {
+     "surahNumber": 18,
+     "ayahNumber": 110,
+     "arabicText": "قُلْ إِنَّمَآ أَنَا۠ بَشَرٌۭ مِّثْلُكُمْ يُوحَىٰٓ إِلَىَّ أَنَّمَآ إِلَٰهُكُمْ إِلَٰهٌۭ وَٰحِدٌۭ ۖ فَمَن كَانَ يَرْجُوا۟ لِقَآءَ رَبِّهِۦ فَلْيَعْمَلْ عَمَلًۭا صَٰلِحًۭا وَلَا يُشْرِكْ بِعِبَادَةِ رَبِّهِۦٓ أَحَدًۢا",
+     "transliteration": "Qul innamaaa ana basharum mislukum yoohaaa ilaiya annamaa ilaahukum Ilaahunw Waahid; faman kaana yarjoo liqaaa'a Rabbihee falya'mal 'amalan saalihanw wa laa yushrik bi'ibaadati Rabbiheee ahadaa",
+     "translation": "Say, \"I am only a man like you, to whom has been revealed that your god is one God. So whoever would hope for the meeting with his Lord - let him do righteous work and not associate in the worship of his Lord anyone.\"",
+     "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2250.mp3"
+    }
+   ],
+   "surahNumber": 18,
+   "arabicText": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِىٓ أَنزَلَ عَلَىٰ عَبْدِهِ ٱلْكِتَٰبَ وَلَمْ يَجْعَل لَّهُۥ عِوَجَا ۜ",
+   "transliteration": "Alhamdu lillaahil lazeee anzala 'alaa 'abdihil kitaaba wa lam yaj'al lahoo 'iwajaa",
+   "translation": "[All] praise is [due] to Allah, who has sent down upon His Servant the Book and has not made therein any deviance.",
+   "audioUrl": "https://cdn.islamic.network/quran/audio-surah/128/ar.alafasy/18.mp3"
+  },
+  {
+   "id": "dhikr_salawat",
+   "kind": "DHIKR",
+   "priority": "MUSTAHAB",
+   "situations": [
+    "FRIDAY"
+   ],
+   "title": "Salawat on the Prophet ﷺ",
+   "arabicText": "اللَّهُمَّ صَلِّ وَسَلِّمْ عَلَى نَبِيِّنَا مُحَمَّدٍ",
+   "transliteration": "Allahumma salli wa sallim 'ala nabiyyina Muhammad.",
+   "translation": "O Allah, send prayers and peace upon our Prophet Muhammad.",
+   "recommendedTargetCount": 100,
+   "hadithVirtue": "Whoever sends one prayer upon the Prophet ﷺ, Allah sends ten upon him.",
+   "virtueReference": "Sahih Muslim 408; on Friday: Sunan Abi Dawud 1047",
+   "sababAndAdabTip": "Send salawat whenever you hear his name ﷺ, and fill your Friday commute with it.",
+   "sortOrder": 330,
+   "ayahs": [],
+   "audioUrl": null,
+   "surahNumber": null
+  },
+  {
+   "id": "dhikr_subhanallah",
+   "kind": "DHIKR",
+   "priority": "MUSTAHAB",
+   "situations": [],
+   "title": "SubhanAllah",
+   "arabicText": "سُبْحَانَ اللَّهِ",
+   "transliteration": "SubhanAllah.",
+   "translation": "Glory be to Allah.",
+   "recommendedTargetCount": 33,
+   "hadithVirtue": "Part of the 33 · 33 · 33 after each prayer.",
+   "virtueReference": "Sahih Muslim 597",
+   "sababAndAdabTip": "Count on your fingers in idle moments — waiting in line, at a red light.",
+   "sortOrder": 340,
+   "ayahs": [],
+   "audioUrl": null,
+   "surahNumber": null
+  },
+  {
+   "id": "dhikr_alhamdulillah",
+   "kind": "DHIKR",
+   "priority": "MUSTAHAB",
+   "situations": [],
+   "title": "Alhamdulillah",
+   "arabicText": "الْحَمْدُ لِلَّهِ",
+   "transliteration": "Alhamdulillah.",
+   "translation": "All praise is for Allah.",
+   "recommendedTargetCount": 33,
+   "hadithVirtue": "Part of the 33 · 33 · 33 after each prayer.",
+   "virtueReference": "Sahih Muslim 597",
+   "sababAndAdabTip": "Say it out of real attention to one thing that went well today.",
+   "sortOrder": 350,
+   "ayahs": [],
+   "audioUrl": null,
+   "surahNumber": null
+  },
+  {
+   "id": "dhikr_allahu_akbar",
+   "kind": "DHIKR",
+   "priority": "MUSTAHAB",
+   "situations": [],
+   "title": "Allahu Akbar",
+   "arabicText": "اللَّهُ أَكْبَرُ",
+   "transliteration": "Allahu akbar.",
+   "translation": "Allah is the Greatest.",
+   "recommendedTargetCount": 33,
+   "hadithVirtue": "Part of the 33 · 33 · 33 after each prayer, completed with La ilaha illallah.",
+   "virtueReference": "Sahih Muslim 597",
+   "sababAndAdabTip": "When something feels too big, say it and remember Who is greater.",
+   "sortOrder": 360,
+   "ayahs": [],
+   "audioUrl": null,
+   "surahNumber": null
+  },
+  {
+   "id": "dhikr_astaghfirullah",
+   "kind": "DHIKR",
+   "priority": "MUSTAHAB",
+   "situations": [],
+   "title": "Astaghfirullah",
+   "arabicText": "أَسْتَغْفِرُ اللَّهَ",
+   "transliteration": "Astaghfirullah.",
+   "translation": "I seek Allah's forgiveness.",
+   "recommendedTargetCount": 100,
+   "hadithVirtue": "The Prophet ﷺ sought Allah's forgiveness a hundred times a day.",
+   "virtueReference": "Sahih Muslim 2702",
+   "sababAndAdabTip": "Seek forgiveness, then make amends to anyone you have wronged.",
+   "sortOrder": 370,
+   "ayahs": [],
+   "audioUrl": null,
+   "surahNumber": null
+  }
+ ]
+}
